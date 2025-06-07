@@ -1,0 +1,879 @@
+location,date,vaccine,total_vaccinations
+United States,2020/12/13,Pfizer/BioNTech,45620
+United States,2020/12/14,Pfizer/BioNTech,50468
+United States,2020/12/15,Pfizer/BioNTech,98353
+United States,2020/12/16,Pfizer/BioNTech,258504
+United States,2020/12/17,Pfizer/BioNTech,533742
+United States,2020/12/18,Pfizer/BioNTech,954790
+United States,2020/12/19,Pfizer/BioNTech,1139003
+United States,2020/12/20,Pfizer/BioNTech,1246202
+United States,2020/12/21,Pfizer/BioNTech,1633303
+United States,2020/12/22,Pfizer/BioNTech,2084575
+United States,2020/12/23,"Moderna, Pfizer/BioNTech",2662880
+United States,2020/12/24,"Moderna, Pfizer/BioNTech",2860781
+United States,2020/12/25,"Moderna, Pfizer/BioNTech",2873624
+United States,2020/12/26,"Moderna, Pfizer/BioNTech",3017158
+United States,2020/12/27,"Moderna, Pfizer/BioNTech",3114027
+United States,2020/12/28,"Moderna, Pfizer/BioNTech",3711556
+United States,2020/12/29,"Moderna, Pfizer/BioNTech",4440692
+United States,2020/12/30,"Moderna, Pfizer/BioNTech",5289609
+United States,2020/12/31,"Moderna, Pfizer/BioNTech",5716312
+United States,2021/1/1,"Moderna, Pfizer/BioNTech",5854174
+United States,2021/1/2,"Moderna, Pfizer/BioNTech",6123124
+United States,2021/1/3,"Moderna, Pfizer/BioNTech",6264523
+United States,2021/1/4,"Moderna, Pfizer/BioNTech",6930229
+United States,2021/1/5,"Moderna, Pfizer/BioNTech",7771008
+United States,2021/1/6,"Moderna, Pfizer/BioNTech",8801611
+United States,2021/1/7,"Moderna, Pfizer/BioNTech",9979326
+United States,2021/1/8,"Moderna, Pfizer/BioNTech",11224067
+United States,2021/1/9,"Moderna, Pfizer/BioNTech",11736696
+United States,2021/1/10,"Moderna, Pfizer/BioNTech",11989784
+United States,2021/1/11,"Moderna, Pfizer/BioNTech",13068929
+United States,2021/1/12,"Moderna, Pfizer/BioNTech",14334853
+United States,2021/1/13,"Moderna, Pfizer/BioNTech",15669707
+United States,2021/1/14,"Moderna, Pfizer/BioNTech",16995452
+United States,2021/1/15,"Moderna, Pfizer/BioNTech",18264041
+United States,2021/1/16,"Moderna, Pfizer/BioNTech",18915824
+United States,2021/1/17,"Moderna, Pfizer/BioNTech",19218336
+United States,2021/1/18,"Moderna, Pfizer/BioNTech",20110141
+United States,2021/1/19,"Moderna, Pfizer/BioNTech",21463944
+United States,2021/1/20,"Moderna, Pfizer/BioNTech",23079181
+United States,2021/1/21,"Moderna, Pfizer/BioNTech",24726816
+United States,2021/1/22,"Moderna, Pfizer/BioNTech",26373687
+United States,2021/1/23,"Moderna, Pfizer/BioNTech",27287063
+United States,2021/1/24,"Moderna, Pfizer/BioNTech",27690932
+United States,2021/1/25,"Moderna, Pfizer/BioNTech",29075771
+United States,2021/1/26,"Moderna, Pfizer/BioNTech",30746637
+United States,2021/1/27,"Moderna, Pfizer/BioNTech",32684763
+United States,2021/1/28,"Moderna, Pfizer/BioNTech",34655252
+United States,2021/1/29,"Moderna, Pfizer/BioNTech",36580372
+United States,2021/1/30,"Moderna, Pfizer/BioNTech",37602504
+United States,2021/1/31,"Moderna, Pfizer/BioNTech",38066296
+United States,2021/2/1,"Moderna, Pfizer/BioNTech",39485009
+United States,2021/2/2,"Moderna, Pfizer/BioNTech",41197818
+United States,2021/2/3,"Moderna, Pfizer/BioNTech",43351693
+United States,2021/2/4,"Moderna, Pfizer/BioNTech",45708674
+United States,2021/2/5,"Moderna, Pfizer/BioNTech",48076553
+United States,2021/2/6,"Moderna, Pfizer/BioNTech",49383802
+United States,2021/2/7,"Moderna, Pfizer/BioNTech",49827294
+United States,2021/2/8,"Moderna, Pfizer/BioNTech",51414409
+United States,2021/2/9,"Moderna, Pfizer/BioNTech",53396358
+United States,2021/2/10,"Moderna, Pfizer/BioNTech",55714633
+United States,2021/2/11,"Moderna, Pfizer/BioNTech",58136047
+United States,2021/2/12,"Moderna, Pfizer/BioNTech",60741211
+United States,2021/2/13,"Moderna, Pfizer/BioNTech",62219717
+United States,2021/2/14,"Moderna, Pfizer/BioNTech",62811106
+United States,2021/2/15,"Moderna, Pfizer/BioNTech",64010045
+United States,2021/2/16,"Moderna, Pfizer/BioNTech",65636435
+United States,2021/2/17,"Moderna, Pfizer/BioNTech",67610948
+United States,2021/2/18,"Moderna, Pfizer/BioNTech",69474219
+United States,2021/2/19,"Moderna, Pfizer/BioNTech",71445759
+United States,2021/2/20,"Moderna, Pfizer/BioNTech",72757200
+United States,2021/2/21,"Moderna, Pfizer/BioNTech",73358924
+United States,2021/2/22,"Moderna, Pfizer/BioNTech",74828958
+United States,2021/2/23,"Moderna, Pfizer/BioNTech",76775442
+United States,2021/2/24,"Moderna, Pfizer/BioNTech",79311352
+United States,2021/2/25,"Moderna, Pfizer/BioNTech",82257772
+United States,2021/2/26,"Moderna, Pfizer/BioNTech",85379828
+United States,2021/2/27,"Moderna, Pfizer/BioNTech",87376038
+United States,2021/2/28,"Moderna, Pfizer/BioNTech",88232689
+United States,2021/3/1,"Moderna, Pfizer/BioNTech",90330534
+United States,2021/3/2,"Moderna, Pfizer/BioNTech",92805077
+United States,2021/3/3,"Moderna, Pfizer/BioNTech",95721666
+United States,2021/3/4,"Moderna, Pfizer/BioNTech",98931744
+United States,2021/3/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",102173757
+United States,2021/3/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",104242436
+United States,2021/3/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",105176040
+United States,2021/3/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",107350219
+United States,2021/3/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",110074225
+United States,2021/3/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",113219962
+United States,2021/3/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",116688784
+United States,2021/3/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",120141884
+United States,2021/3/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",122343966
+United States,2021/3/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",123329855
+United States,2021/3/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",125612278
+United States,2021/3/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",128506033
+United States,2021/3/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",131682691
+United States,2021/3/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",135084905
+United States,2021/3/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",138405274
+United States,2021/3/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",140570830
+United States,2021/3/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",141598741
+United States,2021/3/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",143955592
+United States,2021/3/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",147015330
+United States,2021/3/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",150569265
+United States,2021/3/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",154393853
+United States,2021/3/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",158206894
+United States,2021/3/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",160682919
+United States,2021/3/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",161894806
+United States,2021/3/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",164728895
+United States,2021/3/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",168321927
+United States,2021/3/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",172494725
+United States,2021/4/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",177076502
+United States,2021/4/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",180723033
+United States,2021/4/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",183030847
+United States,2021/4/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",183796134
+United States,2021/4/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",186899414
+United States,2021/4/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",190874444
+United States,2021/4/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",195235067
+United States,2021/4/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",199738657
+United States,2021/4/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",204055134
+United States,2021/4/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",206950142
+United States,2021/4/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",208353016
+United States,2021/4/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",211379731
+United States,2021/4/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",214865134
+United States,2021/4/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",218574244
+United States,2021/4/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",222334927
+United States,2021/4/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",225950584
+United States,2021/4/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",228320920
+United States,2021/4/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",229457616
+United States,2021/4/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",232049874
+United States,2021/4/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",235289528
+United States,2021/4/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",238781654
+United States,2021/4/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",242291910
+United States,2021/4/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",245604243
+United States,2021/4/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",247820516
+United States,2021/4/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",248816796
+United States,2021/4/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",251217978
+United States,2021/4/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",254122446
+United States,2021/4/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",257220868
+United States,2021/4/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",260284037
+United States,2021/4/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",263209607
+United States,2021/5/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",265082725
+United States,2021/5/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",265965311
+United States,2021/5/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",267938366
+United States,2021/5/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",270449723
+United States,2021/5/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",273013863
+United States,2021/5/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",275549433
+United States,2021/5/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",278072481
+United States,2021/5/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",279615963
+United States,2021/5/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",280233338
+United States,2021/5/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",281845756
+United States,2021/5/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",283903317
+United States,2021/5/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",285930430
+United States,2021/5/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",288220296
+United States,2021/5/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",290685802
+United States,2021/5/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",292543580
+United States,2021/5/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",293481568
+United States,2021/5/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",295313838
+United States,2021/5/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",297397450
+United States,2021/5/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",299495675
+United States,2021/5/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",301525193
+United States,2021/5/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",303597826
+United States,2021/5/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",305053382
+United States,2021/5/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",305713996
+United States,2021/5/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",307042685
+United States,2021/5/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",308489320
+United States,2021/5/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",309934797
+United States,2021/5/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",311292638
+United States,2021/5/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",312634870
+United States,2021/5/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",313406009
+United States,2021/5/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",313793224
+United States,2021/5/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",313997712
+United States,2021/6/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",315286109
+United States,2021/6/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",316412601
+United States,2021/6/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",317669791
+United States,2021/6/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",319086318
+United States,2021/6/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",320166407
+United States,2021/6/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",320687243
+United States,2021/6/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",321768537
+United States,2021/6/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",322951685
+United States,2021/6/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",324126137
+United States,2021/6/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",325303229
+United States,2021/6/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",326544221
+United States,2021/6/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",327443326
+United States,2021/6/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",327839088
+United States,2021/6/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",328759101
+United States,2021/6/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",329744485
+United States,2021/6/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",330695630
+United States,2021/6/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",331595411
+United States,2021/6/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",332523845
+United States,2021/6/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",333101435
+United States,2021/6/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",333379912
+United States,2021/6/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",333945577
+United States,2021/6/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",334705734
+United States,2021/6/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",335446508
+United States,2021/6/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",336150148
+United States,2021/6/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",336921541
+United States,2021/6/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",337423329
+United States,2021/6/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",337692191
+United States,2021/6/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",338249878
+United States,2021/6/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",338880595
+United States,2021/6/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",339517243
+United States,2021/7/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",340134935
+United States,2021/7/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",340758805
+United States,2021/7/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",341117662
+United States,2021/7/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",341168658
+United States,2021/7/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",341567690
+United States,2021/7/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",342154834
+United States,2021/7/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",342728862
+United States,2021/7/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",343296740
+United States,2021/7/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",343931531
+United States,2021/7/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",344333935
+United States,2021/7/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",344551459
+United States,2021/7/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",345074839
+United States,2021/7/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",345604611
+United States,2021/7/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",346139725
+United States,2021/7/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",346684121
+United States,2021/7/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",347309592
+United States,2021/7/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",347710722
+United States,2021/7/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",347945224
+United States,2021/7/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",348514545
+United States,2021/7/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",349119207
+United States,2021/7/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",349752329
+United States,2021/7/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",350406377
+United States,2021/7/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",351154305
+United States,2021/7/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",351617554
+United States,2021/7/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",351877915
+United States,2021/7/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",352524039
+United States,2021/7/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",353228600
+United States,2021/7/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",353952553
+United States,2021/7/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",354676925
+United States,2021/7/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",355518404
+United States,2021/7/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",356038132
+United States,2021/8/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",356377861
+United States,2021/8/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",357103617
+United States,2021/8/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",357871567
+United States,2021/8/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",358655216
+United States,2021/8/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",359454531
+United States,2021/8/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",360370503
+United States,2021/8/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",360934260
+United States,2021/8/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",361288186
+United States,2021/8/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",362077715
+United States,2021/8/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",362884577
+United States,2021/8/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",363660453
+United States,2021/8/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",364471389
+United States,2021/8/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",365426585
+United States,2021/8/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",366056949
+United States,2021/8/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",366460189
+United States,2021/8/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",367337157
+United States,2021/8/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",368268534
+United States,2021/8/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",369229359
+United States,2021/8/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",370182079
+United States,2021/8/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",371298518
+United States,2021/8/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",371971796
+United States,2021/8/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",372365945
+United States,2021/8/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",373291909
+United States,2021/8/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",374248369
+United States,2021/8/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",375221664
+United States,2021/8/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",376218132
+United States,2021/8/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",377396086
+United States,2021/8/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",378113144
+United States,2021/8/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",378546537
+United States,2021/8/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",379485003
+United States,2021/8/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",380429513
+United States,2021/9/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",381382994
+United States,2021/9/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",382283529
+United States,2021/9/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",383328951
+United States,2021/9/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",383891281
+United States,2021/9/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",384258974
+United States,2021/9/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",384437087
+United States,2021/9/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",385353978
+United States,2021/9/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",386206174
+United States,2021/9/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",387061507
+United States,2021/9/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",388104721
+United States,2021/9/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",388709179
+United States,2021/9/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",389063721
+United States,2021/9/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",389850754
+United States,2021/9/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",390607594
+United States,2021/9/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",391378996
+United States,2021/9/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",392146951
+United States,2021/9/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",393055398
+United States,2021/9/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",393580013
+United States,2021/9/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",393890824
+United States,2021/9/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",394595089
+United States,2021/9/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",395278874
+United States,2021/9/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",395949782
+United States,2021/9/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",396631061
+United States,2021/9/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",397621884
+United States,2021/9/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",398297437
+United States,2021/9/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",398708697
+United States,2021/9/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",399742996
+United States,2021/9/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",400882294
+United States,2021/9/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",402030070
+United States,2021/9/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",403204153
+United States,2021/10/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",404555441
+United States,2021/10/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",405189746
+United States,2021/10/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",405558325
+United States,2021/10/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",406550550
+United States,2021/10/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",407575421
+United States,2021/10/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",408616886
+United States,2021/10/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",409659044
+United States,2021/10/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",410828133
+United States,2021/10/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",411367007
+United States,2021/10/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",411684148
+United States,2021/10/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",412543407
+United States,2021/10/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",413480122
+United States,2021/10/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",414397568
+United States,2021/10/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",415317935
+United States,2021/10/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",416383197
+United States,2021/10/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",416878985
+United States,2021/10/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",417150471
+United States,2021/10/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",417989866
+United States,2021/10/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",418821317
+United States,2021/10/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",419668070
+United States,2021/10/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",420538139
+United States,2021/10/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",421928294
+United States,2021/10/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",422761685
+United States,2021/10/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",423237304
+United States,2021/10/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",424775476
+United States,2021/10/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",426352164
+United States,2021/10/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",427987962
+United States,2021/10/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",429611718
+United States,2021/10/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",431416044
+United States,2021/10/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",432241418
+United States,2021/10/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",432682634
+United States,2021/11/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",434188925
+United States,2021/11/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",435706739
+United States,2021/11/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",437292792
+United States,2021/11/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",438952515
+United States,2021/11/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",440891789
+United States,2021/11/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",441943005
+United States,2021/11/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",442506916
+United States,2021/11/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",443990754
+United States,2021/11/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",445649609
+United States,2021/11/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",447446421
+United States,2021/11/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",449064472
+United States,2021/11/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",451077281
+United States,2021/11/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",452265771
+United States,2021/11/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",452850774
+United States,2021/11/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",454422505
+United States,2021/11/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",456125159
+United States,2021/11/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",457907050
+United States,2021/11/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",459716905
+United States,2021/11/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",461818190
+United States,2021/11/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",463065911
+United States,2021/11/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",463719983
+United States,2021/11/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",465557452
+United States,2021/11/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",467367157
+United States,2021/11/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",468770932
+United States,2021/11/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",468800525
+United States,2021/11/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",470022050
+United States,2021/11/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",470925809
+United States,2021/11/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",471524229
+United States,2021/11/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",473209140
+United States,2021/11/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",475161508
+United States,2021/12/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",477370837
+United States,2021/12/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",479568318
+United States,2021/12/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",482047790
+United States,2021/12/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",483549682
+United States,2021/12/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",484289046
+United States,2021/12/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",486144144
+United States,2021/12/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",488077793
+United States,2021/12/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",490027226
+United States,2021/12/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",491975536
+United States,2021/12/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",494116999
+United States,2021/12/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",495387747
+United States,2021/12/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",496026495
+United States,2021/12/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",497661346
+United States,2021/12/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",499402632
+United States,2021/12/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",501144913
+United States,2021/12/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",502854525
+United States,2021/12/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",504815550
+United States,2021/12/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",505947076
+United States,2021/12/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",506593781
+United States,2021/12/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",508454369
+United States,2021/12/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",510447413
+United States,2021/12/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",512331805
+United States,2021/12/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",513808865
+United States,2021/12/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",514192705
+United States,2021/12/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",514199722
+United States,2021/12/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",514683134
+United States,2021/12/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",516223913
+United States,2021/12/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",517933952
+United States,2021/12/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",519626497
+United States,2021/12/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",521176784
+United States,2021/12/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",521797692
+United States,2022/1/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",521918004
+United States,2022/1/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",522418645
+United States,2022/1/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",523671276
+United States,2022/1/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",525094724
+United States,2022/1/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",526556546
+United States,2022/1/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",528030730
+United States,2022/1/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",529692905
+United States,2022/1/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",530748218
+United States,2022/1/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",531249385
+United States,2022/1/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",532518009
+United States,2022/1/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",533834532
+United States,2022/1/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",535157096
+United States,2022/1/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",536459113
+United States,2022/1/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",537939916
+United States,2022/1/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",538735091
+United States,2022/1/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",539128831
+United States,2022/1/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",539959879
+United States,2022/1/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",540967964
+United States,2022/1/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",541956732
+United States,2022/1/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",542902164
+United States,2022/1/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",543995187
+United States,2022/1/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",544621478
+United States,2022/1/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",544955362
+United States,2022/1/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",545759030
+United States,2022/1/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",546569635
+United States,2022/1/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",547369589
+United States,2022/1/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",548167302
+United States,2022/1/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",549131881
+United States,2022/1/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",549605781
+United States,2022/1/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",549872736
+United States,2022/1/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",550509505
+United States,2022/2/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",551133326
+United States,2022/2/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",551712410
+United States,2022/2/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",552239065
+United States,2022/2/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",552902416
+United States,2022/2/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",553345385
+United States,2022/2/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",553560912
+United States,2022/2/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",554050086
+United States,2022/2/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",554557634
+United States,2022/2/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",555075095
+United States,2022/2/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",555590555
+United States,2022/2/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",556220255
+United States,2022/2/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",556569334
+United States,2022/2/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",556723665
+United States,2022/2/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",557069849
+United States,2022/2/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",557476940
+United States,2022/2/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",557896546
+United States,2022/2/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",558309529
+United States,2022/2/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",558841815
+United States,2022/2/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",559126887
+United States,2022/2/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",559282790
+United States,2022/2/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",559603106
+United States,2022/2/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",559960737
+United States,2022/2/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",560308460
+United States,2022/2/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",560642108
+United States,2022/2/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",561041040
+United States,2022/2/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",561286587
+United States,2022/2/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",561411021
+United States,2022/2/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",561731241
+United States,2022/3/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",562016477
+United States,2022/3/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",562278498
+United States,2022/3/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",562536557
+United States,2022/3/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",562860566
+United States,2022/3/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",563044675
+United States,2022/3/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",563134718
+United States,2022/3/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",563349201
+United States,2022/3/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",563566957
+United States,2022/3/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",563783622
+United States,2022/3/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",564000370
+United States,2022/3/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",564263628
+United States,2022/3/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",564407241
+United States,2022/3/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",564482230
+United States,2022/3/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",564680597
+United States,2022/3/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",564888705
+United States,2022/3/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",565100185
+United States,2022/3/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",565301461
+United States,2022/3/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",565558018
+United States,2022/3/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",565704746
+United States,2022/3/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",565781754
+United States,2022/3/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",565973887
+United States,2022/3/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",566159708
+United States,2022/3/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",566355586
+United States,2022/3/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",566547055
+United States,2022/3/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",566782151
+United States,2022/3/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",566907330
+United States,2022/3/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",566972545
+United States,2022/3/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",567147602
+United States,2022/3/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",567347383
+United States,2022/3/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",567752614
+United States,2022/3/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",568312182
+United States,2022/4/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",568979449
+United States,2022/4/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",569327368
+United States,2022/4/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",569538505
+United States,2022/4/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",570102675
+United States,2022/4/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",570662195
+United States,2022/4/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",571244170
+United States,2022/4/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",571832114
+United States,2022/4/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",572511686
+United States,2022/4/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",572852561
+United States,2022/4/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",573050619
+United States,2022/4/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",573635515
+United States,2022/4/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",574255670
+United States,2022/4/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",574843355
+United States,2022/4/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",575437749
+United States,2022/4/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",576010808
+United States,2022/4/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",576272817
+United States,2022/4/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",576333501
+United States,2022/4/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",576853355
+United States,2022/4/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",577401120
+United States,2022/4/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",577942563
+United States,2022/4/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",578452888
+United States,2022/4/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",578954304
+United States,2022/4/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",579217040
+United States,2022/4/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",579352566
+United States,2022/4/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",579784139
+United States,2022/4/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",580244877
+United States,2022/4/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",580724865
+United States,2022/4/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",581208935
+United States,2022/4/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",581725064
+United States,2022/4/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",581969320
+United States,2022/5/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",582105667
+United States,2022/5/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",582501777
+United States,2022/5/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",582926063
+United States,2022/5/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",583347637
+United States,2022/5/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",583762706
+United States,2022/5/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",584220928
+United States,2022/5/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",584429134
+United States,2022/5/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",584521044
+United States,2022/5/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",584914317
+United States,2022/5/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",585340252
+United States,2022/5/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",585767899
+United States,2022/5/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",586205590
+United States,2022/5/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",586682307
+United States,2022/5/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",586923096
+United States,2022/5/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",587055539
+United States,2022/5/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",587445897
+United States,2022/5/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",587859971
+United States,2022/5/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",588284128
+United States,2022/5/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",588728821
+United States,2022/5/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",589245260
+United States,2022/5/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",589517170
+United States,2022/5/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",589672496
+United States,2022/5/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",590113345
+United States,2022/5/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",590545030
+United States,2022/5/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",590964490
+United States,2022/5/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",591370905
+United States,2022/5/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",591821297
+United States,2022/5/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",592023979
+United States,2022/5/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",592137372
+United States,2022/5/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",592169657
+United States,2022/5/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",592549109
+United States,2022/6/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",592925569
+United States,2022/6/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",593289019
+United States,2022/6/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",593693735
+United States,2022/6/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",593887053
+United States,2022/6/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",593994792
+United States,2022/6/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",594316453
+United States,2022/6/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",594637210
+United States,2022/6/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",594961848
+United States,2022/6/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",595276977
+United States,2022/6/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",595626439
+United States,2022/6/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",595789983
+United States,2022/6/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",595877362
+United States,2022/6/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",596148394
+United States,2022/6/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",596428503
+United States,2022/6/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",596713598
+United States,2022/6/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",596996739
+United States,2022/6/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",597297646
+United States,2022/6/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",597429806
+United States,2022/6/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",597492627
+United States,2022/6/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",597728913
+United States,2022/6/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",597999848
+United States,2022/6/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",598287185
+United States,2022/6/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",598574623
+United States,2022/6/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",598885852
+United States,2022/6/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",599049651
+United States,2022/6/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",599129200
+United States,2022/6/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",599383974
+United States,2022/6/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",599652426
+United States,2022/6/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",599926759
+United States,2022/6/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",600209859
+United States,2022/7/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",600491056
+United States,2022/7/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",600605915
+United States,2022/7/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",600665121
+United States,2022/7/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",600678310
+United States,2022/7/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",600931387
+United States,2022/7/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",601198869
+United States,2022/7/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",601473370
+United States,2022/7/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",601781861
+United States,2022/7/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",601929618
+United States,2022/7/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",602008303
+United States,2022/7/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",602279526
+United States,2022/7/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",602582714
+United States,2022/7/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",602930737
+United States,2022/7/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",603299076
+United States,2022/7/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",603716134
+United States,2022/7/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",603930168
+United States,2022/7/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",604046436
+United States,2022/7/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",604408072
+United States,2022/7/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",604769565
+United States,2022/7/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",605115695
+United States,2022/7/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",605481860
+United States,2022/7/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",605897195
+United States,2022/7/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",606099785
+United States,2022/7/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",606199644
+United States,2022/7/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",606511647
+United States,2022/7/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",606834201
+United States,2022/7/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",607144582
+United States,2022/7/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",607453044
+United States,2022/7/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",607777244
+United States,2022/7/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",607918011
+United States,2022/7/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",607987438
+United States,2022/8/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",608231492
+United States,2022/8/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",608490580
+United States,2022/8/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",608744254
+United States,2022/8/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",608993926
+United States,2022/8/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",609261617
+United States,2022/8/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",609386096
+United States,2022/8/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",609450014
+United States,2022/8/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",609670908
+United States,2022/8/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",609899676
+United States,2022/8/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",610114731
+United States,2022/8/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",610332958
+United States,2022/8/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",610572962
+United States,2022/8/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",610680157
+United States,2022/8/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",610733034
+United States,2022/8/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",610930659
+United States,2022/8/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",611135493
+United States,2022/8/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",611337776
+United States,2022/8/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",611532626
+United States,2022/8/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",611745904
+United States,2022/8/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",611833778
+United States,2022/8/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",611877494
+United States,2022/8/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612044423
+United States,2022/8/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612220949
+United States,2022/8/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612395636
+United States,2022/8/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612566835
+United States,2022/8/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612747240
+United States,2022/8/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612825521
+United States,2022/8/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",612863903
+United States,2022/8/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613005369
+United States,2022/8/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613153914
+United States,2022/8/31,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613288488
+United States,2022/9/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613387308
+United States,2022/9/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613477812
+United States,2022/9/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613534191
+United States,2022/9/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613577190
+United States,2022/9/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613590568
+United States,2022/9/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",613768601
+United States,2022/9/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",614169956
+United States,2022/9/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",614602333
+United States,2022/9/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",615168648
+United States,2022/9/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",615488045
+United States,2022/9/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",615691059
+United States,2022/9/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",616243845
+United States,2022/9/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",616779522
+United States,2022/9/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",617356244
+United States,2022/9/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",617940516
+United States,2022/9/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",618646280
+United States,2022/9/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",618986490
+United States,2022/9/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",619181453
+United States,2022/9/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",619799773
+United States,2022/9/20,"Johnson&Johnson, Moderna, Pfizer/BioNTech",620430242
+United States,2022/9/21,"Johnson&Johnson, Moderna, Pfizer/BioNTech",621118372
+United States,2022/9/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",621800988
+United States,2022/9/23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",622616170
+United States,2022/9/24,"Johnson&Johnson, Moderna, Pfizer/BioNTech",622997168
+United States,2022/9/25,"Johnson&Johnson, Moderna, Pfizer/BioNTech",623214027
+United States,2022/9/26,"Johnson&Johnson, Moderna, Pfizer/BioNTech",623929765
+United States,2022/9/27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",624640495
+United States,2022/9/28,"Johnson&Johnson, Moderna, Pfizer/BioNTech",625374865
+United States,2022/9/29,"Johnson&Johnson, Moderna, Pfizer/BioNTech",626094074
+United States,2022/9/30,"Johnson&Johnson, Moderna, Pfizer/BioNTech",626922109
+United States,2022/10/1,"Johnson&Johnson, Moderna, Pfizer/BioNTech",627301508
+United States,2022/10/2,"Johnson&Johnson, Moderna, Pfizer/BioNTech",627510797
+United States,2022/10/3,"Johnson&Johnson, Moderna, Pfizer/BioNTech",628231741
+United States,2022/10/4,"Johnson&Johnson, Moderna, Pfizer/BioNTech",628959450
+United States,2022/10/5,"Johnson&Johnson, Moderna, Pfizer/BioNTech",629757129
+United States,2022/10/6,"Johnson&Johnson, Moderna, Pfizer/BioNTech",630535128
+United States,2022/10/7,"Johnson&Johnson, Moderna, Pfizer/BioNTech",631412942
+United States,2022/10/8,"Johnson&Johnson, Moderna, Pfizer/BioNTech",631823057
+United States,2022/10/9,"Johnson&Johnson, Moderna, Pfizer/BioNTech",632045454
+United States,2022/10/10,"Johnson&Johnson, Moderna, Pfizer/BioNTech",632787018
+United States,2022/10/11,"Johnson&Johnson, Moderna, Pfizer/BioNTech",633550560
+United States,2022/10/12,"Johnson&Johnson, Moderna, Pfizer/BioNTech",634374623
+United States,2022/10/13,"Johnson&Johnson, Moderna, Pfizer/BioNTech",635159624
+United States,2022/10/14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",636051522
+United States,2022/10/15,"Johnson&Johnson, Moderna, Pfizer/BioNTech",636439029
+United States,2022/10/16,"Johnson&Johnson, Moderna, Pfizer/BioNTech",636652216
+United States,2022/10/17,"Johnson&Johnson, Moderna, Pfizer/BioNTech",637416156
+United States,2022/10/18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",638178731
+United States,2022/10/19,"Johnson&Johnson, Moderna, Pfizer/BioNTech",638977419
+United States,2022/10/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",639747912
+United States,2022/10/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",640605372
+United States,2022/10/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",640990400
+United States,2022/10/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",641199944
+United States,2022/10/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",641947260
+United States,2022/10/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",642715816
+United States,2022/10/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",643560650
+United States,2022/10/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",644349693
+United States,2022/10/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",645210369
+United States,2022/10/29,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",645582174
+United States,2022/10/30,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",645776076
+United States,2022/10/31,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",646384492
+United States,2022/11/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",647024640
+United States,2022/11/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",647681343
+United States,2022/11/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",648323080
+United States,2022/11/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",649079809
+United States,2022/11/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",649423049
+United States,2022/11/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",649603308
+United States,2022/11/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",650187784
+United States,2022/11/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",650752536
+United States,2022/11/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",651308671
+United States,2022/11/10,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",651866732
+United States,2022/11/11,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",652467920
+United States,2022/11/12,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",652750515
+United States,2022/11/13,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",652909399
+United States,2022/11/14,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",653425942
+United States,2022/11/15,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",653949826
+United States,2022/11/16,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",654477790
+United States,2022/11/17,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",654989880
+United States,2022/11/18,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",655557955
+United States,2022/11/19,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",655824941
+United States,2022/11/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",655969930
+United States,2022/11/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",656425345
+United States,2022/11/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",656849167
+United States,2022/11/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",657208062
+United States,2022/11/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",657213970
+United States,2022/11/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",657461380
+United States,2022/11/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",657652917
+United States,2022/11/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",657771833
+United States,2022/11/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",658107322
+United States,2022/11/29,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",658455874
+United States,2022/11/30,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",658889454
+United States,2022/12/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",659277438
+United States,2022/12/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",659716279
+United States,2022/12/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",659920383
+United States,2022/12/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",660035121
+United States,2022/12/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",660385971
+United States,2022/12/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",660751583
+United States,2022/12/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",661127692
+United States,2022/12/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",661506931
+United States,2022/12/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",661933435
+United States,2022/12/10,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",662149278
+United States,2022/12/11,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",662273358
+United States,2022/12/12,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",662639997
+United States,2022/12/13,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",663008281
+United States,2022/12/14,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",663358039
+United States,2022/12/15,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",663682048
+United States,2022/12/16,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",664062673
+United States,2022/12/17,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",664259895
+United States,2022/12/18,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",664373850
+United States,2022/12/19,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",664711486
+United States,2022/12/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665028939
+United States,2022/12/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665317901
+United States,2022/12/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665547079
+United States,2022/12/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665700653
+United States,2022/12/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665739625
+United States,2022/12/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665742181
+United States,2022/12/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",665852398
+United States,2022/12/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",666118942
+United States,2022/12/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",666380587
+United States,2022/12/29,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",666644942
+United States,2022/12/30,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",666888577
+United States,2022/12/31,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",666952241
+United States,2023/1/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",666962231
+United States,2023/1/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",667086190
+United States,2023/1/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",667314723
+United States,2023/1/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",667532053
+United States,2023/1/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",667759856
+United States,2023/1/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",668032629
+United States,2023/1/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",668166932
+United States,2023/1/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",668235802
+United States,2023/1/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",668442071
+United States,2023/1/10,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",668645088
+United States,2023/1/11,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",668845541
+United States,2023/1/12,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669042935
+United States,2023/1/13,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669264387
+United States,2023/1/14,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669367918
+United States,2023/1/15,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669415509
+United States,2023/1/16,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669528573
+United States,2023/1/17,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669679540
+United States,2023/1/18,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669826716
+United States,2023/1/19,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",669967935
+United States,2023/1/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670125256
+United States,2023/1/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670190219
+United States,2023/1/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670221095
+United States,2023/1/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670340666
+United States,2023/1/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670463588
+United States,2023/1/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670578583
+United States,2023/1/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670699113
+United States,2023/1/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670830072
+United States,2023/1/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670882585
+United States,2023/1/29,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",670909681
+United States,2023/1/30,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671010721
+United States,2023/1/31,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671113219
+United States,2023/2/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671212866
+United States,2023/2/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671312243
+United States,2023/2/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671423970
+United States,2023/2/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671470458
+United States,2023/2/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671495506
+United States,2023/2/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671589596
+United States,2023/2/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671684807
+United States,2023/2/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671778135
+United States,2023/2/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671869542
+United States,2023/2/10,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",671969526
+United States,2023/2/11,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672011939
+United States,2023/2/12,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672030694
+United States,2023/2/13,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672110032
+United States,2023/2/14,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672184132
+United States,2023/2/15,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672267033
+United States,2023/2/16,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672346061
+United States,2023/2/17,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672434501
+United States,2023/2/18,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672468591
+United States,2023/2/19,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672486324
+United States,2023/2/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672548661
+United States,2023/2/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672624669
+United States,2023/2/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672696611
+United States,2023/2/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672767310
+United States,2023/2/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672846343
+United States,2023/2/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672878203
+United States,2023/2/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672894784
+United States,2023/2/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",672966752
+United States,2023/2/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673038761
+United States,2023/3/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673110198
+United States,2023/3/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673180440
+United States,2023/3/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673258607
+United States,2023/3/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673290317
+United States,2023/3/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673306999
+United States,2023/3/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673373725
+United States,2023/3/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673441497
+United States,2023/3/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673507961
+United States,2023/3/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673573609
+United States,2023/3/10,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673645633
+United States,2023/3/11,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673675506
+United States,2023/3/12,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673691159
+United States,2023/3/13,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673752611
+United States,2023/3/14,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673812827
+United States,2023/3/15,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673876699
+United States,2023/3/16,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",673938204
+United States,2023/3/17,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674004866
+United States,2023/3/18,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674031936
+United States,2023/3/19,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674046252
+United States,2023/3/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674106474
+United States,2023/3/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674166233
+United States,2023/3/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674225438
+United States,2023/3/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674283757
+United States,2023/3/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674348833
+United States,2023/3/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674374334
+United States,2023/3/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674388697
+United States,2023/3/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674444701
+United States,2023/3/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674501459
+United States,2023/3/29,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674559267
+United States,2023/3/30,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674615703
+United States,2023/3/31,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674674587
+United States,2023/4/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674696382
+United States,2023/4/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674708566
+United States,2023/4/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674759102
+United States,2023/4/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674810463
+United States,2023/4/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674861309
+United States,2023/4/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674913181
+United States,2023/4/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674960747
+United States,2023/4/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674982343
+United States,2023/4/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",674988543
+United States,2023/4/10,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675037992
+United States,2023/4/11,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675087206
+United States,2023/4/12,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675136008
+United States,2023/4/13,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675182462
+United States,2023/4/14,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675232286
+United States,2023/4/15,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675251980
+United States,2023/4/16,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675261871
+United States,2023/4/17,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675304457
+United States,2023/4/18,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675347903
+United States,2023/4/19,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675391336
+United States,2023/4/20,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675450061
+United States,2023/4/21,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675530053
+United States,2023/4/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675573420
+United States,2023/4/23,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675599153
+United States,2023/4/24,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675684285
+United States,2023/4/25,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675768513
+United States,2023/4/26,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675856678
+United States,2023/4/27,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",675946505
+United States,2023/4/28,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676043612
+United States,2023/4/29,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676083527
+United States,2023/4/30,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676107562
+United States,2023/5/1,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676198192
+United States,2023/5/2,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676292617
+United States,2023/5/3,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676390150
+United States,2023/5/4,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676493615
+United States,2023/5/5,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676599339
+United States,2023/5/6,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676640011
+United States,2023/5/7,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676661397
+United States,2023/5/8,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676717031
+United States,2023/5/9,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",676728782

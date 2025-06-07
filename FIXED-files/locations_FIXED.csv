@@ -1,0 +1,224 @@
+iso_code,location,last_observation_date,source_name,source_website
+AFG,Afghanistan,2023/12/31,World Health Organization,https://data.who.int/dashboards/covid19/
+ALB,Albania,2023/9/10,World Health Organization,https://data.who.int/dashboards/covid19/
+DZA,Algeria,2022/9/4,World Health Organization,https://data.who.int/dashboards/covid19/
+AND,Andorra,2023/9/24,World Health Organization,https://data.who.int/dashboards/covid19/
+AGO,Angola,2023/12/31,World Health Organization,https://data.who.int/dashboards/covid19/
+AIA,Anguilla,2023/3/17,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+ATG,Antigua and Barbuda,2022/9/16,Ministry of Health,https://covid19.who.int/
+ARG,Argentina,2024/1/27,Ministry of Health,https://covidstats.com.ar/
+ARM,Armenia,2023/10/1,World Health Organization,https://data.who.int/dashboards/covid19/
+ABW,Aruba,2024/3/12,Government of Aruba,https://www.government.aw
+AUS,Australia,2023/12/31,Government of Australia via CovidBaseAU,https://data.who.int/dashboards/covid19/
+AUT,Austria,2023/6/30,European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+AZE,Azerbaijan,2022/8/28,Government of Azerbaijan,https://koronavirusinfo.az
+BHS,Bahamas,2023/5/12,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BHR,Bahrain,2022/12/21,Ministry of Health,https://data.who.int/dashboards/covid19/
+BGD,Bangladesh,2024/7/2,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BRB,Barbados,2023/12/29,Ministry of Health,https://data.who.int/dashboards/covid19/
+BLR,Belarus,2023/9/3,World Health Organization,https://data.who.int/dashboards/covid19/
+BEL,Belgium,2024/2/11,Sciensano,https://epistat.wiv-isp.be/covid/
+BLZ,Belize,2023/5/12,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BEN,Benin,2022/12/18,Ministry of Health,https://data.who.int/dashboards/covid19/
+BMU,Bermuda,2022/7/8,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BTN,Bhutan,2022/10/30,World Health Organization,https://data.who.int/dashboards/covid19/
+BOL,Bolivia,2022/10/7,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/
+BES,Bonaire Sint Eustatius and Saba,2021/9/1,World Health Organization,https://www.rivm.nl/sites/default/files/2021-09/COVID-19_website_rapport_eilanden_engels_35_20210902_1409.pdf
+BIH,Bosnia and Herzegovina,2022/1/29,World Health Organization,https://data.who.int/dashboards/covid19/
+BWA,Botswana,2023/12/31,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+BRA,Brazil,2023/3/22,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io
+VGB,British Virgin Islands,2022/9/16,World Health Organization,https://covid19.who.int/
+BRN,Brunei,2023/6/30,World Health Organization,https://data.who.int/dashboards/covid19/
+BGR,Bulgaria,2024/6/29,Ministry of Health,https://coronavirus.bg/bg/statistika
+BFA,Burkina Faso,2023/7/23,World Health Organization,https://data.who.int/dashboards/covid19/
+BDI,Burundi,2023/12/31,World Health Organization,https://data.who.int/dashboards/covid19/
+KHM,Cambodia,2023/12/31,World Health Organization,https://data.who.int/dashboards/covid19/
+CMR,Cameroon,2023/10/15,World Health Organization,https://data.who.int/dashboards/covid19/
+CAN,Canada,2024/7/24,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CPV,Cape Verde,2022/9/25,World Health Organization,https://data.who.int/dashboards/covid19/
+CYM,Cayman Islands,2023/12/29,World Health Organization,https://data.who.int/dashboards/covid19/
+CAF,Central African Republic,2023/9/3,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+TCD,Chad,2023/12/31,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+CHL,Chile,2023/12/29,"Ministry of Health, via Ministry of Science GitHub repository",https://data.who.int/dashboards/covid19/
+CHN,China,2023/2/9,National Health Commission,https://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_13141/202302/t20230211_263697.html
+COL,Colombia,2023/12/29,World Health Organization,https://data.who.int/dashboards/covid19/
+COM,Comoros,2022/10/2,World Health Organization,https://data.who.int/dashboards/covid19/
+COG,Congo,2022/7/31,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+COK,Cook Islands,2023/2/13,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+CRI,Costa Rica,2023/10/6,Costa Rican Social Security Fund,https://data.who.int/dashboards/covid19/
+CIV,Cote d'Ivoire,2023/2/19,World Health Organization,https://covid19.who.int/
+HRV,Croatia,2023/11/28,Ministry of Health,https://www.koronavirus.hr
+CUB,Cuba,2024/4/12,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/
+CUW,Curacao,2023/5/12,Government of Curacao,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+CYP,Cyprus,2023/2/22,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+CZE,Czechia,2024/7/31,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+COD,Democratic Republic of Congo,2023/6/4,World Health Organization,https://data.who.int/dashboards/covid19/
+DNK,Denmark,2023/9/29,Statens Serum Institute,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+DJI,Djibouti,2023/10/8,World Health Organization,https://data.who.int/dashboards/covid19/
+DMA,Dominica,2022/10/7,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+DOM,Dominican Republic,2023/12/28,Ministry of Public Health,https://vacunate.gob.do
+ECU,Ecuador,2023/3/31,Government of Ecuador via Ecuacovid,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+EGY,Egypt,2023/5/21,World Health Organization,https://data.who.int/dashboards/covid19/
+SLV,El Salvador,2022/10/2,Ministry of Health,https://covid19.gob.sv/
+OWID_ENG,England,2023/7/10,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+GNQ,Equatorial Guinea,2022/7/24,World Health Organization,https://data.who.int/dashboards/covid19/
+EST,Estonia,2024/8/12,National Health Board,https://opendata.digilugu.ee
+SWZ,Eswatini,2023/6/4,World Health Organization,https://data.who.int/dashboards/covid19/
+ETH,Ethiopia,2023/5/28,World Health Organization,https://data.who.int/dashboards/covid19/
+FRO,Faeroe Islands,2022/2/18,Government of the Faeroe Islands,https://corona.fo/api
+FLK,Falkland Islands,2021/4/14,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594
+FJI,Fiji,2023/5/1,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+FIN,Finland,2024/1/9,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov
+FRA,France,2023/7/10,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+PYF,French Polynesia,2023/5/1,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+GAB,Gabon,2023/2/5,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+GMB,Gambia,2023/3/19,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+GEO,Georgia,2022/10/13,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/
+DEU,Germany,2023/4/7,Robert Koch Institut,https://impfdashboard.de/
+GHA,Ghana,2023/7/2,World Health Organization,https://data.who.int/dashboards/covid19/
+GIB,Gibraltar,2022/12/16,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1517138573614477315
+GRC,Greece,2024/6/26,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+GRL,Greenland,2022/3/14,Government of Greenland,https://corona.nun.gl/en/
+GRD,Grenada,2023/3/17,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GTM,Guatemala,2023/5/12,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GGY,Guernsey,2022/12/19,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
+GIN,Guinea,2023/9/24,National Health Security Agency,https://data.who.int/dashboards/covid19/
+GNB,Guinea-Bissau,2023/10/15,World Health Organization,https://data.who.int/dashboards/covid19/
+GUY,Guyana,2023/2/17,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+HTI,Haiti,2023/12/29,World Health Organization,https://data.who.int/dashboards/covid19/
+HND,Honduras,2023/8/11,World Health Organization,https://data.who.int/dashboards/covid19/
+HKG,Hong Kong,2024/8/10,Food and Health Bureau,https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent
+HUN,Hungary,2022/12/27,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-421-ezer-beoltott-4-397-az-uj-fertozott-es-elhunyt-56-beteg
+ISL,Iceland,2022/3/29,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+IND,India,2024/8/12,Government of India,https://dashboard.cowin.gov.in/
+IDN,Indonesia,2023/11/23,Government of Indonesia,https://data.who.int/dashboards/covid19/
+IRN,Iran,2023/11/26,World Health Organization,https://data.who.int/dashboards/covid19/
+IRQ,Iraq,2023/1/2,World Health Organization,https://data.who.int/dashboards/covid19/
+IRL,Ireland,2024/5/10,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+IMN,Isle of Man,2022/6/23,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+ISR,Israel,2023/5/4,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+ITA,Italy,2023/11/16,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+JAM,Jamaica,2023/10/3,Ministry of Health,https://vaccination.moh.gov.jm
+JPN,Japan,2023/5/7,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+JEY,Jersey,2023/1/29,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
+JOR,Jordan,2022/8/21,World Health Organization,https://data.who.int/dashboards/covid19/
+KAZ,Kazakhstan,2023/4/30,Government of Kazakhstan,https://data.who.int/dashboards/covid19/
+KEN,Kenya,2023/4/2,World Health Organization,https://data.who.int/dashboards/covid19/
+KIR,Kiribati,2023/2/20,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+OWID_KOS,Kosovo,2023/2/12,Ministry of Health,https://msh.rks-gov.net/sq/statistikat-covid-19/
+KWT,Kuwait,2023/11/26,World Health Organization,https://data.who.int/dashboards/covid19/
+KGZ,Kyrgyzstan,2023/9/8,Ministry of Health,https://vc.emed.gov.kg/
+LAO,Laos,2022/8/11,World Health Organization,https://www.covid19.gov.la/index.php
+LVA,Latvia,2022/7/11,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+LBN,Lebanon,2022/12/22,World Health Organization,https://data.who.int/dashboards/covid19/
+LSO,Lesotho,2023/3/19,World Health Organization,https://data.who.int/dashboards/covid19/
+LBR,Liberia,2022/12/11,World Health Organization,https://data.who.int/dashboards/covid19/
+LBY,Libya,2023/1/16,World Health Organization,https://data.who.int/dashboards/covid19/
+LIE,Liechtenstein,2023/6/7,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL
+LTU,Lithuania,2024/8/14,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+LUX,Luxembourg,2023/6/11,Government of Luxembourg,https://covid19.who.int/
+MAC,Macao,2023/4/13,Government of Macao,https://www.ssm.gov.mo/apps1/COVID19Case/en.aspx
+MDG,Madagascar,2023/7/30,World Health Organization,https://data.who.int/dashboards/covid19/
+MWI,Malawi,2023/9/24,World Health Organization,https://data.who.int/dashboards/covid19/
+MYS,Malaysia,2024/8/14,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public
+MDV,Maldives,2023/5/25,World Health Organization,https://data.who.int/dashboards/covid19/
+MLI,Mali,2023/5/14,World Health Organization,https://data.who.int/dashboards/covid19/
+MLT,Malta,2024/3/19,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+MRT,Mauritania,2023/11/19,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+MUS,Mauritius,2023/7/30,World Health Organization,https://data.who.int/dashboards/covid19/
+MEX,Mexico,2022/11/18,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+MDA,Moldova,2023/12/23,Ministry of Health,https://data.who.int/dashboards/covid19/
+MCO,Monaco,2021/12/21,National Council,https://en.gouv.mc/Policy-Practice/Social-Affairs-and-Health/News/Minister-of-State-visits-those-working-to-combat-COVID
+MNG,Mongolia,2022/5/18,Ministry of Health via ikon.mn,https://ikon.mn/
+MNE,Montenegro,2022/8/26,Government of Montenegro,https://www.covidodgovor.me/
+MSR,Montserrat,2022/12/16,World Health Organization,https://covid19.who.int/
+MAR,Morocco,2023/5/14,World Health Organization,https://data.who.int/dashboards/covid19/
+MOZ,Mozambique,2023/7/2,World Health Organization,https://data.who.int/dashboards/covid19/
+MMR,Myanmar,2023/8/21,World Health Organization,https://data.who.int/dashboards/covid19/
+NAM,Namibia,2023/11/12,Africa Centres for Disease Control and Prevention,https://data.who.int/dashboards/covid19/
+NRU,Nauru,2023/2/20,World Health Organization,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+NPL,Nepal,2023/11/23,World Health Organization,https://data.who.int/dashboards/covid19/
+NLD,Netherlands,2023/9/29,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+NCL,New Caledonia,2023/5/9,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+NZL,New Zealand,2024/8/11,Ministry of Health,https://www.tewhatuora.govt.nz/our-health-system/data-and-statistics/covid-vaccine-data
+NIC,Nicaragua,2023/8/11,World Health Organization,https://data.who.int/dashboards/covid19/
+NER,Niger,2023/7/30,World Health Organization,https://data.who.int/dashboards/covid19/
+NGA,Nigeria,2023/11/5,World Health Organization,https://data.who.int/dashboards/covid19/
+NIU,Niue,2023/3/4,SPC Public Health Division,https://data.who.int/dashboards/covid19/
+MKD,North Macedonia,2023/5/7,World Health Organization,https://data.who.int/dashboards/covid19/
+OWID_CYN,Northern Cyprus,2022/12/6,Ministry of Health,https://asi.saglik.gov.ct.tr/
+OWID_NIR,Northern Ireland,2023/7/11,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+NOR,Norway,2022/11/13,Norwegian Institute of Public Health,https://github.com/folkehelseinstituttet/surveillance_data
+OMN,Oman,2022/10/25,World Health Organization,https://data.who.int/dashboards/covid19/
+PAK,Pakistan,2023/11/14,National Command and Operation Centre,https://data.who.int/dashboards/covid19/
+PSE,Palestine,2022/10/18,World Health Organization,https://covid19.who.int/
+PAN,Panama,2023/5/12,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PNG,Papua New Guinea,2023/5/1,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+PRY,Paraguay,2023/5/12,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PER,Peru,2023/12/10,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion
+PHL,Philippines,2023/3/19,Department of Health via ABS-CBN Investigative and Research Group,https://data.who.int/dashboards/covid19/
+PCN,Pitcairn,2022/8/29,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+POL,Poland,2023/11/10,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+PRT,Portugal,2023/9/29,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+QAT,Qatar,2023/5/7,Ministry of Public Health,https://data.who.int/dashboards/covid19/
+ROU,Romania,2023/12/23,Government of Romania via datelazi.ro,https://data.who.int/dashboards/covid19/
+RUS,Russia,2023/9/27,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
+RWA,Rwanda,2023/6/4,World Health Organization,https://data.who.int/dashboards/covid19/
+SHN,Saint Helena,2021/5/5,Government of Saint Helena,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/
+KNA,Saint Kitts and Nevis,2022/12/7,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+LCA,Saint Lucia,2022/12/2,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+VCT,Saint Vincent and the Grenadines,2023/4/21,World Health Organization,https://covid19.who.int/
+WSM,Samoa,2023/4/17,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+SMR,San Marino,2022/5/22,World Health Organization,https://data.who.int/dashboards/covid19/
+STP,Sao Tome and Principe,2023/7/30,World Health Organization,https://data.who.int/dashboards/covid19/
+SAU,Saudi Arabia,2023/4/25,Saudi Health Council,https://covid19.who.int/
+OWID_SCT,Scotland,2022/9/11,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+SEN,Senegal,2023/11/12,World Health Organization,https://data.who.int/dashboards/covid19/
+SRB,Serbia,2022/6/23,Government of Serbia,https://vakcinacija.gov.rs/
+SYC,Seychelles,2023/4/9,World Health Organization,https://data.who.int/dashboards/covid19/
+SLE,Sierra Leone,2023/7/30,World Health Organization,https://data.who.int/dashboards/covid19/
+SGP,Singapore,2023/1/31,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination
+SXM,Sint Maarten (Dutch part),2023/3/31,World Health Organization,https://covid19.who.int/
+SVK,Slovakia,2022/7/31,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVN,Slovenia,2022/7/6,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats
+SLB,Solomon Islands,2022/10/31,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+SOM,Somalia,2023/7/25,World Health Organization,https://data.who.int/dashboards/covid19/
+ZAF,South Africa,2023/9/24,Ministry of Health,https://data.who.int/dashboards/covid19/
+KOR,South Korea,2023/5/26,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/
+SSD,South Sudan,2023/10/1,World Health Organization,https://data.who.int/dashboards/covid19/
+ESP,Spain,2023/5/24,Ministry of Health,https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20230526.ods
+LKA,Sri Lanka,2022/10/30,Ministry of Health's Epidemiology Unit,https://data.who.int/dashboards/covid19/
+SDN,Sudan,2023/4/2,World Health Organization,https://data.who.int/dashboards/covid19/
+SUR,Suriname,2022/5/23,Government of Suriname,https://laatjevaccineren.sr/
+SWE,Sweden,2024/2/26,Public Health Agency of Sweden,https://www.fohm.se/folkhalsorapportering-statistik/statistikdatabaser-och-visualisering/vaccinationsstatistik/statistik-for-vaccination-mot-covid-19/
+CHE,Switzerland,2023/7/3,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH
+SYR,Syria,2023/4/18,World Health Organization,https://data.who.int/dashboards/covid19/
+TWN,Taiwan,2023/9/24,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+TJK,Tajikistan,2023/12/23,World Health Organization,https://data.who.int/dashboards/covid19/
+TZA,Tanzania,2023/3/12,World Health Organization,https://data.who.int/dashboards/covid19/
+THA,Thailand,2022/9/30,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/
+TLS,Timor,2023/11/22,World Health Organization,https://data.who.int/dashboards/covid19/
+TGO,Togo,2023/11/19,World Health Organization,https://data.who.int/dashboards/covid19/
+TKL,Tokelau,2022/12/5,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+TON,Tonga,2023/4/11,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+TTO,Trinidad and Tobago,2022/9/21,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query
+TUN,Tunisia,2023/6/20,World Health Organization,https://data.who.int/dashboards/covid19/
+TUR,Turkey,2022/11/22,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+TKM,Turkmenistan,2023/8/6,World Health Organization,https://data.who.int/dashboards/covid19/
+TCA,Turks and Caicos Islands,2023/1/6,World Health Organization,https://covid19.who.int/
+TUV,Tuvalu,2023/2/1,World Health Organization,https://data.who.int/dashboards/covid19/
+UGA,Uganda,2023/5/28,World Health Organization,https://data.who.int/dashboards/covid19/
+UKR,Ukraine,2023/12/23,Ministry of Health,https://data.who.int/dashboards/covid19/
+ARE,United Arab Emirates,2022/6/20,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+GBR,United Kingdom,2022/9/11,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+USA,United States,2023/5/9,Centers for Disease Control and Prevention,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+URY,Uruguay,2023/11/13,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/
+UZB,Uzbekistan,2023/12/23,World Health Organization,https://data.who.int/dashboards/covid19/
+VUT,Vanuatu,2023/2/20,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+VEN,Venezuela,2022/12/7,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+VNM,Vietnam,2023/6/30,World Health Organization,https://data.who.int/dashboards/covid19/
+OWID_WLS,Wales,2023/6/30,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+WLF,Wallis and Futuna,2023/1/23,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+YEM,Yemen,2023/12/10,World Health Organization,https://data.who.int/dashboards/covid19/
+ZMB,Zambia,2023/6/25,Government of Zambia,https://data.who.int/dashboards/covid19/
+ZWE,Zimbabwe,2022/10/9,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd

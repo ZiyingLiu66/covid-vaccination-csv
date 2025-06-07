@@ -1,0 +1,275 @@
+location,date,vaccine,total_vaccinations
+Zambia,2021/4/14,Oxford/AstraZeneca,0
+Zambia,2021/4/15,Oxford/AstraZeneca,106
+Zambia,2021/4/18,Oxford/AstraZeneca,1316
+Zambia,2021/4/19,Oxford/AstraZeneca,2114
+Zambia,2021/4/20,Oxford/AstraZeneca,3391
+Zambia,2021/4/21,Oxford/AstraZeneca,9006
+Zambia,2021/4/22,Oxford/AstraZeneca,12543
+Zambia,2021/4/25,Oxford/AstraZeneca,14012
+Zambia,2021/4/28,Oxford/AstraZeneca,21919
+Zambia,2021/4/29,Oxford/AstraZeneca,26580
+Zambia,2021/4/30,Oxford/AstraZeneca,32034
+Zambia,2021/5/2,Oxford/AstraZeneca,43147
+Zambia,2021/5/3,Oxford/AstraZeneca,45740
+Zambia,2021/5/4,Oxford/AstraZeneca,51784
+Zambia,2021/5/5,Oxford/AstraZeneca,58982
+Zambia,2021/5/6,Oxford/AstraZeneca,64011
+Zambia,2021/5/8,Oxford/AstraZeneca,77348
+Zambia,2021/5/10,Oxford/AstraZeneca,81459
+Zambia,2021/5/12,Oxford/AstraZeneca,90916
+Zambia,2021/5/14,Oxford/AstraZeneca,100373
+Zambia,2021/5/15,Oxford/AstraZeneca,107790
+Zambia,2021/5/17,Oxford/AstraZeneca,114767
+Zambia,2021/5/19,Oxford/AstraZeneca,120209
+Zambia,2021/5/20,Oxford/AstraZeneca,126291
+Zambia,2021/5/21,Oxford/AstraZeneca,129941
+Zambia,2021/5/22,Oxford/AstraZeneca,134832
+Zambia,2021/5/23,Oxford/AstraZeneca,138201
+Zambia,2021/5/25,Oxford/AstraZeneca,144085
+Zambia,2021/5/26,"Oxford/AstraZeneca, Sinopharm/Beijing",145198
+Zambia,2021/5/27,"Oxford/AstraZeneca, Sinopharm/Beijing",146129
+Zambia,2021/5/28,"Oxford/AstraZeneca, Sinopharm/Beijing",146645
+Zambia,2021/5/29,"Oxford/AstraZeneca, Sinopharm/Beijing",147033
+Zambia,2021/6/2,"Oxford/AstraZeneca, Sinopharm/Beijing",147115
+Zambia,2021/6/15,"Oxford/AstraZeneca, Sinopharm/Beijing",148304
+Zambia,2021/6/24,"Oxford/AstraZeneca, Sinopharm/Beijing",149002
+Zambia,2021/6/25,"Oxford/AstraZeneca, Sinopharm/Beijing",149699
+Zambia,2021/6/26,"Oxford/AstraZeneca, Sinopharm/Beijing",150476
+Zambia,2021/6/27,"Oxford/AstraZeneca, Sinopharm/Beijing",151205
+Zambia,2021/6/29,"Oxford/AstraZeneca, Sinopharm/Beijing",153106
+Zambia,2021/6/30,"Oxford/AstraZeneca, Sinopharm/Beijing",154819
+Zambia,2021/7/1,"Oxford/AstraZeneca, Sinopharm/Beijing",156584
+Zambia,2021/7/2,"Oxford/AstraZeneca, Sinopharm/Beijing",158786
+Zambia,2021/7/3,"Oxford/AstraZeneca, Sinopharm/Beijing",162383
+Zambia,2021/7/4,"Oxford/AstraZeneca, Sinopharm/Beijing",164370
+Zambia,2021/7/7,"Oxford/AstraZeneca, Sinopharm/Beijing",169922
+Zambia,2021/7/8,"Oxford/AstraZeneca, Sinopharm/Beijing",171238
+Zambia,2021/7/9,"Oxford/AstraZeneca, Sinopharm/Beijing",175244
+Zambia,2021/7/10,"Oxford/AstraZeneca, Sinopharm/Beijing",181219
+Zambia,2021/7/11,"Oxford/AstraZeneca, Sinopharm/Beijing",191272
+Zambia,2021/7/12,"Oxford/AstraZeneca, Sinopharm/Beijing",197744
+Zambia,2021/7/13,"Oxford/AstraZeneca, Sinopharm/Beijing",210992
+Zambia,2021/7/14,"Oxford/AstraZeneca, Sinopharm/Beijing",215784
+Zambia,2021/7/15,"Oxford/AstraZeneca, Sinopharm/Beijing",243818
+Zambia,2021/7/16,"Oxford/AstraZeneca, Sinopharm/Beijing",260882
+Zambia,2021/7/17,"Oxford/AstraZeneca, Sinopharm/Beijing",275253
+Zambia,2021/7/18,"Oxford/AstraZeneca, Sinopharm/Beijing",283617
+Zambia,2021/7/19,"Oxford/AstraZeneca, Sinopharm/Beijing",289948
+Zambia,2021/7/20,"Oxford/AstraZeneca, Sinopharm/Beijing",301220
+Zambia,2021/7/21,"Oxford/AstraZeneca, Sinopharm/Beijing",312479
+Zambia,2021/7/22,"Oxford/AstraZeneca, Sinopharm/Beijing",322358
+Zambia,2021/7/24,"Oxford/AstraZeneca, Sinopharm/Beijing",343223
+Zambia,2021/7/26,"Oxford/AstraZeneca, Sinopharm/Beijing",361333
+Zambia,2021/7/27,"Oxford/AstraZeneca, Sinopharm/Beijing",381015
+Zambia,2021/7/28,"Oxford/AstraZeneca, Sinopharm/Beijing",400639
+Zambia,2021/7/29,"Oxford/AstraZeneca, Sinopharm/Beijing",413774
+Zambia,2021/7/30,"Oxford/AstraZeneca, Sinopharm/Beijing",424519
+Zambia,2021/7/31,"Oxford/AstraZeneca, Sinopharm/Beijing",433716
+Zambia,2021/8/1,"Oxford/AstraZeneca, Sinopharm/Beijing",438885
+Zambia,2021/8/2,"Oxford/AstraZeneca, Sinopharm/Beijing",441113
+Zambia,2021/8/3,"Oxford/AstraZeneca, Sinopharm/Beijing",444574
+Zambia,2021/8/4,"Oxford/AstraZeneca, Sinopharm/Beijing",454406
+Zambia,2021/8/5,"Oxford/AstraZeneca, Sinopharm/Beijing",465760
+Zambia,2021/8/6,"Oxford/AstraZeneca, Sinopharm/Beijing",478129
+Zambia,2021/8/7,"Oxford/AstraZeneca, Sinopharm/Beijing",490441
+Zambia,2021/8/9,"Oxford/AstraZeneca, Sinopharm/Beijing",496594
+Zambia,2021/8/10,"Oxford/AstraZeneca, Sinopharm/Beijing",503707
+Zambia,2021/8/11,"Oxford/AstraZeneca, Sinopharm/Beijing",511417
+Zambia,2021/8/13,"Oxford/AstraZeneca, Sinopharm/Beijing",520283
+Zambia,2021/8/15,"Oxford/AstraZeneca, Sinopharm/Beijing",522150
+Zambia,2021/8/17,"Oxford/AstraZeneca, Sinopharm/Beijing",527205
+Zambia,2021/8/18,"Oxford/AstraZeneca, Sinopharm/Beijing",531885
+Zambia,2021/8/19,"Oxford/AstraZeneca, Sinopharm/Beijing",536479
+Zambia,2021/8/21,"Oxford/AstraZeneca, Sinopharm/Beijing",548267
+Zambia,2021/8/23,"Oxford/AstraZeneca, Sinopharm/Beijing",552288
+Zambia,2021/8/24,"Oxford/AstraZeneca, Sinopharm/Beijing",556766
+Zambia,2021/8/25,"Oxford/AstraZeneca, Sinopharm/Beijing",558307
+Zambia,2021/8/26,"Oxford/AstraZeneca, Sinopharm/Beijing",562630
+Zambia,2021/8/27,"Oxford/AstraZeneca, Sinopharm/Beijing",567261
+Zambia,2021/8/28,"Oxford/AstraZeneca, Sinopharm/Beijing",571356
+Zambia,2021/8/30,"Oxford/AstraZeneca, Sinopharm/Beijing",575032
+Zambia,2021/9/2,"Oxford/AstraZeneca, Sinopharm/Beijing",588857
+Zambia,2021/9/3,"Oxford/AstraZeneca, Sinopharm/Beijing",592863
+Zambia,2021/9/7,"Oxford/AstraZeneca, Sinopharm/Beijing",602996
+Zambia,2021/9/16,"Oxford/AstraZeneca, Sinopharm/Beijing",636600
+Zambia,2021/9/18,"Oxford/AstraZeneca, Sinopharm/Beijing",648103
+Zambia,2021/9/23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",670361
+Zambia,2021/9/26,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",699210
+Zambia,2021/9/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",702462
+Zambia,2021/9/28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",711264
+Zambia,2021/9/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",720260
+Zambia,2021/9/30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",731450
+Zambia,2021/10/1,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",740374
+Zambia,2021/10/2,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",753555
+Zambia,2021/10/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",772322
+Zambia,2021/10/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",788042
+Zambia,2021/10/9,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",794718
+Zambia,2021/10/11,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",802043
+Zambia,2021/10/12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",809988
+Zambia,2021/10/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",818523
+Zambia,2021/10/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",827347
+Zambia,2021/10/15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",836099
+Zambia,2021/10/16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",843347
+Zambia,2021/10/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",849060
+Zambia,2021/10/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",851990
+Zambia,2021/10/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",859618
+Zambia,2021/10/21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",866486
+Zambia,2021/10/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",871881
+Zambia,2021/10/31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2021/11/1,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2021/11/5,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2021/11/11,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",985443
+Zambia,2021/11/16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1001286
+Zambia,2021/11/17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1006196
+Zambia,2021/11/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1024730
+Zambia,2021/11/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1029896
+Zambia,2021/11/23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1035796
+Zambia,2021/11/24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1057879
+Zambia,2021/11/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1062540
+Zambia,2021/11/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1086607
+Zambia,2021/12/2,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1109512
+Zambia,2021/12/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1134766
+Zambia,2021/12/6,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1145089
+Zambia,2021/12/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1153458
+Zambia,2021/12/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1200837
+Zambia,2021/12/11,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1242193
+Zambia,2021/12/12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1253211
+Zambia,2021/12/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1264656
+Zambia,2021/12/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1283096
+Zambia,2021/12/15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1311660
+Zambia,2021/12/16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1342989
+Zambia,2021/12/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1407055
+Zambia,2021/12/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1424762
+Zambia,2021/12/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1434513
+Zambia,2021/12/21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1469501
+Zambia,2021/12/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1507308
+Zambia,2021/12/24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1574449
+Zambia,2021/12/25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1597020
+Zambia,2021/12/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1669400
+Zambia,2021/12/31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1730165
+Zambia,2022/1/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1793721
+Zambia,2022/1/5,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1816154
+Zambia,2022/1/6,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1842432
+Zambia,2022/1/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1896642
+Zambia,2022/1/10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1917245
+Zambia,2022/1/11,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1967446
+Zambia,2022/1/12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2003194
+Zambia,2022/1/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2039439
+Zambia,2022/1/17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2171611
+Zambia,2022/1/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2215416
+Zambia,2022/1/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2237516
+Zambia,2022/1/21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2258222
+Zambia,2022/1/24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2291351
+Zambia,2022/1/25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2305684
+Zambia,2022/1/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2337128
+Zambia,2022/1/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2370615
+Zambia,2022/1/31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2386312
+Zambia,2022/2/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2434721
+Zambia,2022/2/4,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2456611
+Zambia,2022/2/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2493228
+Zambia,2022/2/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2510775
+Zambia,2022/2/9,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2529814
+Zambia,2022/2/10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2546579
+Zambia,2022/2/12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2580342
+Zambia,2022/2/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2596867
+Zambia,2022/2/16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2635418
+Zambia,2022/2/17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/2/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2680149
+Zambia,2022/2/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2714909
+Zambia,2022/2/21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2724282
+Zambia,2022/2/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2747841
+Zambia,2022/2/23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2773910
+Zambia,2022/2/24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/2/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2822009
+Zambia,2022/2/28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2863132
+Zambia,2022/3/1,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2888981
+Zambia,2022/3/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/3/4,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/3/5,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3027612
+Zambia,2022/3/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3073602
+Zambia,2022/3/9,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3085973
+Zambia,2022/3/11,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3131843
+Zambia,2022/3/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/3/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3178009
+Zambia,2022/3/15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/3/16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3216653
+Zambia,2022/3/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3237700
+Zambia,2022/3/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3267529
+Zambia,2022/3/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/3/21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3288541
+Zambia,2022/3/23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3325582
+Zambia,2022/3/24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3345769
+Zambia,2022/3/28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3390539
+Zambia,2022/3/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3402612
+Zambia,2022/3/30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3415406
+Zambia,2022/3/31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3431038
+Zambia,2022/4/2,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3457873
+Zambia,2022/4/4,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3470733
+Zambia,2022/4/5,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3478542
+Zambia,2022/4/6,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3492504
+Zambia,2022/4/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3508455
+Zambia,2022/4/10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3508455
+Zambia,2022/4/12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3568887
+Zambia,2022/4/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3584909
+Zambia,2022/4/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3601615
+Zambia,2022/4/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3646431
+Zambia,2022/4/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3658402
+Zambia,2022/4/21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3696014
+Zambia,2022/4/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3714453
+Zambia,2022/4/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3753984
+Zambia,2022/4/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3787279
+Zambia,2022/5/2,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3811966
+Zambia,2022/5/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3821677
+Zambia,2022/5/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/5/10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3901833
+Zambia,2022/5/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3945245
+Zambia,2022/5/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3958100
+Zambia,2022/5/16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",4029757
+Zambia,2022/5/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",4392293
+Zambia,2022/5/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",4656681
+Zambia,2022/5/23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",4719380
+Zambia,2022/5/26,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",4922782
+Zambia,2022/5/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",5147399
+Zambia,2022/5/31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",5251671
+Zambia,2022/6/2,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",5670376
+Zambia,2022/6/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",5889950
+Zambia,2022/6/6,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",6032028
+Zambia,2022/6/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",6075116
+Zambia,2022/6/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",6209931
+Zambia,2022/6/17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",6675386
+Zambia,2022/6/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",6819302
+Zambia,2022/6/23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",6917310
+Zambia,2022/6/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7103097
+Zambia,2022/6/30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7199179
+Zambia,2022/7/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7339206
+Zambia,2022/7/8,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7404709
+Zambia,2022/7/11,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7457234
+Zambia,2022/7/18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7617402
+Zambia,2022/7/25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",7789944
+Zambia,2022/8/1,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8130436
+Zambia,2022/8/7,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/8/12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8698573
+Zambia,2022/8/15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8721321
+Zambia,2022/8/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8777822
+Zambia,2022/8/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8830640
+Zambia,2022/8/29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",8922075
+Zambia,2022/9/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",9107742
+Zambia,2022/9/19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",9202035
+Zambia,2022/9/28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",9408734
+Zambia,2022/10/14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",10447737
+Zambia,2022/10/17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",11450011
+Zambia,2022/10/25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",11907343
+Zambia,2022/10/27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12008116
+Zambia,2022/11/3,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12146645
+Zambia,2022/11/13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/11/20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2022/12/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12583850
+Zambia,2023/1/6,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12655676
+Zambia,2023/1/15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12673375
+Zambia,2023/2/4,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12722857
+Zambia,2023/3/5,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2023/3/15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",12792112
+Zambia,2023/4/9,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",
+Zambia,2023/5/22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",13454213
+Zambia,2023/6/25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",

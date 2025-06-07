@@ -1,0 +1,131 @@
+location,date,vaccine,total_vaccinations
+Austria,2021/1/8,Pfizer/BioNTech,31790
+Austria,2021/1/15,"Moderna, Pfizer/BioNTech",117665
+Austria,2021/1/22,"Moderna, Pfizer/BioNTech",216189
+Austria,2021/1/29,"Moderna, Pfizer/BioNTech",265704
+Austria,2021/2/5,"Moderna, Pfizer/BioNTech",364418
+Austria,2021/2/12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",482438
+Austria,2021/2/19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",586391
+Austria,2021/2/26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",715245
+Austria,2021/3/5,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",885732
+Austria,2021/3/12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1146023
+Austria,2021/3/19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1386146
+Austria,2021/3/26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1636696
+Austria,2021/4/2,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1863002
+Austria,2021/4/9,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2219599
+Austria,2021/4/16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2597215
+Austria,2021/4/23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2952324
+Austria,2021/4/30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",3313413
+Austria,2021/5/7,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",3769595
+Austria,2021/5/14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",4198562
+Austria,2021/5/21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",4745351
+Austria,2021/5/28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",5239573
+Austria,2021/6/4,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",5824871
+Austria,2021/6/11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",6463485
+Austria,2021/6/18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",7062963
+Austria,2021/6/25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",7681377
+Austria,2021/7/2,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",8307594
+Austria,2021/7/9,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",8809627
+Austria,2021/7/16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9235745
+Austria,2021/7/23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9609828
+Austria,2021/7/30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",9920906
+Austria,2021/8/6,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10189078
+Austria,2021/8/13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10372949
+Austria,2021/8/20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10526122
+Austria,2021/8/27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10625859
+Austria,2021/9/3,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10718512
+Austria,2021/9/10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10811721
+Austria,2021/9/17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10920680
+Austria,2021/9/24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11034119
+Austria,2021/10/1,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11148412
+Austria,2021/10/8,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11289327
+Austria,2021/10/15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11424338
+Austria,2021/10/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11582148
+Austria,2021/10/29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11728922
+Austria,2021/11/5,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11993434
+Austria,2021/11/12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",12495122
+Austria,2021/11/19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",13190432
+Austria,2021/11/26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",13986115
+Austria,2021/12/3,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",14754686
+Austria,2021/12/10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",15432474
+Austria,2021/12/17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",16117395
+Austria,2021/12/24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",16442896
+Austria,2021/12/31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",16677400
+Austria,2022/1/7,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",16976974
+Austria,2022/1/14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",17314752
+Austria,2022/1/21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",17560251
+Austria,2022/1/28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",17760687
+Austria,2022/2/4,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",17963207
+Austria,2022/2/11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",18069467
+Austria,2022/2/18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",18130254
+Austria,2022/2/25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18172954
+Austria,2022/3/4,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18209211
+Austria,2022/3/11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18237778
+Austria,2022/3/18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18261878
+Austria,2022/3/25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18287092
+Austria,2022/4/1,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18310588
+Austria,2022/4/8,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18332948
+Austria,2022/4/15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18352299
+Austria,2022/4/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18373879
+Austria,2022/4/29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18400191
+Austria,2022/5/6,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18426752
+Austria,2022/5/13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18454086
+Austria,2022/5/20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18480457
+Austria,2022/5/27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18498269
+Austria,2022/6/3,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18520039
+Austria,2022/6/10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18540313
+Austria,2022/6/17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18561826
+Austria,2022/6/24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18596713
+Austria,2022/7/1,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18647304
+Austria,2022/7/8,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18714296
+Austria,2022/7/15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18786170
+Austria,2022/7/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18846243
+Austria,2022/7/29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18898299
+Austria,2022/8/5,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18940102
+Austria,2022/8/12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18981314
+Austria,2022/8/19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",19021746
+Austria,2022/8/26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19069081
+Austria,2022/9/2,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19124417
+Austria,2022/9/9,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19187027
+Austria,2022/9/16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19243935
+Austria,2022/9/23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19300179
+Austria,2022/9/30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19387051
+Austria,2022/10/7,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19499196
+Austria,2022/10/14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19621776
+Austria,2022/10/21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19741790
+Austria,2022/10/28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19814255
+Austria,2022/11/4,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19887029
+Austria,2022/11/11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",19979348
+Austria,2022/11/18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",20064469
+Austria,2022/11/25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",20139505
+Austria,2022/12/2,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",20212063
+Austria,2022/12/9,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",20262376
+Austria,2022/12/16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",20316117
+Austria,2022/12/23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20340085
+Austria,2022/12/30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20351827
+Austria,2023/1/6,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20365631
+Austria,2023/1/13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20384653
+Austria,2023/1/20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20399035
+Austria,2023/1/27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20409648
+Austria,2023/2/3,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20418050
+Austria,2023/2/10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20424217
+Austria,2023/2/17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20429762
+Austria,2023/2/24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20434553
+Austria,2023/3/3,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20441522
+Austria,2023/3/10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20445536
+Austria,2023/3/17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20449101
+Austria,2023/3/24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20452291
+Austria,2023/3/31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20455410
+Austria,2023/4/7,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20457056
+Austria,2023/4/14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20458581
+Austria,2023/4/21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20460568
+Austria,2023/4/28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20462394
+Austria,2023/5/5,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20463465
+Austria,2023/5/12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20464555
+Austria,2023/5/19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20465230
+Austria,2023/5/26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20466154
+Austria,2023/6/2,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20466793
+Austria,2023/6/9,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20467339
+Austria,2023/6/16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20467934
+Austria,2023/6/23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20468338
+Austria,2023/6/30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sanofi/GSK, Valneva",20468731
