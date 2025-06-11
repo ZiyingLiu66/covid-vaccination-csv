@@ -1,0 +1,958 @@
+iso_code,vaccine_name
+AFG,CanSino
+AFG,Covaxin
+AFG,Johnson&Johnson
+AFG,Moderna
+AFG,Oxford/AstraZeneca
+AFG,Pfizer/BioNTech
+AFG,Sinopharm/Beijing
+AFG,Sinovac
+AFG,Sputnik Light
+AFG,Sputnik V
+ALB,Oxford/AstraZeneca
+ALB,Pfizer/BioNTech
+ALB,Sinovac
+ALB,Sputnik V
+DZA,Oxford/AstraZeneca
+DZA,Sinopharm/Beijing
+DZA,Sinovac
+DZA,Sputnik V
+AND,Moderna
+AND,Oxford/AstraZeneca
+AND,Pfizer/BioNTech
+AGO,Oxford/AstraZeneca
+AIA,Oxford/AstraZeneca
+AIA,Pfizer/BioNTech
+ATG,Johnson&Johnson
+ATG,Oxford/AstraZeneca
+ATG,Pfizer/BioNTech
+ATG,Sinopharm/Beijing
+ATG,Sputnik V
+ARG,CanSino
+ARG,Moderna
+ARG,Oxford/AstraZeneca
+ARG,Pfizer/BioNTech
+ARG,Sinopharm/Beijing
+ARG,Sputnik V
+ARM,Johnson&Johnson
+ARM,Moderna
+ARM,Oxford/AstraZeneca
+ARM,Pfizer/BioNTech
+ARM,Sinopharm/Beijing
+ARM,Sinopharm/Wuhan
+ARM,Sinovac
+ARM,Sputnik Light
+ARM,Sputnik V
+ABW,Pfizer/BioNTech
+AUS,Johnson&Johnson
+AUS,Moderna
+AUS,Novavax
+AUS,Oxford/AstraZeneca
+AUS,Pfizer/BioNTech
+AUT,Johnson&Johnson
+AUT,Moderna
+AUT,Novavax
+AUT,Oxford/AstraZeneca
+AUT,Pfizer/BioNTech
+AUT,Sanofi/GSK
+AUT,Valneva
+AZE,Oxford/AstraZeneca
+AZE,Pfizer/BioNTech
+AZE,Sinovac
+AZE,Sputnik V
+BHS,Johnson&Johnson
+BHS,Oxford/AstraZeneca
+BHS,Pfizer/BioNTech
+BHR,CanSino
+BHR,Covaxin
+BHR,Johnson&Johnson
+BHR,Moderna
+BHR,Oxford/AstraZeneca
+BHR,Pfizer/BioNTech
+BHR,Sinopharm/Beijing
+BHR,Sinovac
+BHR,Sputnik Light
+BHR,Sputnik V
+BGD,Johnson&Johnson
+BGD,Moderna
+BGD,Oxford/AstraZeneca
+BGD,Pfizer/BioNTech
+BGD,Sinopharm/Beijing
+BGD,Sinovac
+BRB,Johnson&Johnson
+BRB,Oxford/AstraZeneca
+BRB,Pfizer/BioNTech
+BRB,Sinopharm/Beijing
+BLR,KoviVac/Chumakov
+BLR,Sinopharm/Beijing
+BLR,Sputnik Light
+BLR,Sputnik V
+BEL,Johnson&Johnson
+BEL,Moderna
+BEL,Novavax
+BEL,Oxford/AstraZeneca
+BEL,Pfizer/BioNTech
+BLZ,Johnson&Johnson
+BLZ,Oxford/AstraZeneca
+BLZ,Pfizer/BioNTech
+BLZ,Sinopharm/Beijing
+BEN,Johnson&Johnson
+BEN,Oxford/AstraZeneca
+BEN,Pfizer/BioNTech
+BEN,Sinovac
+BMU,Oxford/AstraZeneca
+BMU,Pfizer/BioNTech
+BTN,Moderna
+BTN,Oxford/AstraZeneca
+BTN,Pfizer/BioNTech
+BTN,Sinopharm/Beijing
+BOL,Johnson&Johnson
+BOL,Oxford/AstraZeneca
+BOL,Pfizer/BioNTech
+BOL,Sinopharm/Beijing
+BOL,Sputnik V
+BES,Moderna
+BES,Pfizer/BioNTech
+BIH,Oxford/AstraZeneca
+BIH,Pfizer/BioNTech
+BIH,Sinovac
+BIH,Sputnik V
+BWA,Covaxin
+BWA,Johnson&Johnson
+BWA,Moderna
+BWA,Oxford/AstraZeneca
+BWA,Pfizer/BioNTech
+BWA,Sinovac
+BRA,Johnson&Johnson
+BRA,Oxford/AstraZeneca
+BRA,Pfizer/BioNTech
+BRA,Sinovac
+VGB,Johnson&Johnson
+VGB,Oxford/AstraZeneca
+BRN,Johnson&Johnson
+BRN,Moderna
+BRN,Oxford/AstraZeneca
+BRN,Pfizer/BioNTech
+BRN,Sinopharm/Beijing
+BGR,Johnson&Johnson
+BGR,Moderna
+BGR,Oxford/AstraZeneca
+BGR,Pfizer/BioNTech
+BFA,Johnson&Johnson
+BFA,Oxford/AstraZeneca
+BFA,Sinopharm/Beijing
+BDI,Johnson&Johnson
+BDI,Sinopharm/Beijing
+KHM,Johnson&Johnson
+KHM,Moderna
+KHM,Oxford/AstraZeneca
+KHM,Pfizer/BioNTech
+KHM,Sinopharm/Beijing
+KHM,Sinovac
+CMR,Johnson&Johnson
+CMR,Oxford/AstraZeneca
+CMR,Pfizer/BioNTech
+CMR,Sinopharm/Beijing
+CAN,Johnson&Johnson
+CAN,Medicago
+CAN,Moderna
+CAN,Novavax
+CAN,Oxford/AstraZeneca
+CAN,Pfizer/BioNTech
+CPV,Moderna
+CPV,Oxford/AstraZeneca
+CPV,Pfizer/BioNTech
+CPV,Sinopharm/Beijing
+CYM,Oxford/AstraZeneca
+CYM,Pfizer/BioNTech
+CAF,Covaxin
+CAF,Oxford/AstraZeneca
+TCD,Sinopharm/Beijing
+CHL,CanSino
+CHL,Moderna
+CHL,Oxford/AstraZeneca
+CHL,Pfizer/BioNTech
+CHL,Sinovac
+CHN,CanSino
+CHN,IMBCAMS
+CHN,KCONVAC
+CHN,Sinopharm/Beijing
+CHN,Sinopharm/Wuhan
+CHN,Sinovac
+CHN,ZF2001
+COL,Johnson&Johnson
+COL,Moderna
+COL,Oxford/AstraZeneca
+COL,Pfizer/BioNTech
+COL,Sinovac
+COM,Covaxin
+COM,Oxford/AstraZeneca
+COM,Sinopharm/Beijing
+COG,Moderna
+COG,Oxford/AstraZeneca
+COG,Sinopharm/Beijing
+COG,Sputnik V
+COK,Pfizer/BioNTech
+CRI,Moderna
+CRI,Oxford/AstraZeneca
+CRI,Pfizer/BioNTech
+CIV,Johnson&Johnson
+CIV,Oxford/AstraZeneca
+CIV,Pfizer/BioNTech
+CIV,Sinopharm/Beijing
+CIV,Sputnik V
+HRV,Johnson&Johnson
+HRV,Moderna
+HRV,Novavax
+HRV,Oxford/AstraZeneca
+HRV,Pfizer/BioNTech
+CUB,Abdala
+CUB,Soberana Plus
+CUB,Soberana02
+CUW,Moderna
+CUW,Oxford/AstraZeneca
+CUW,Pfizer/BioNTech
+CYP,Johnson&Johnson
+CYP,Moderna
+CYP,Novavax
+CYP,Oxford/AstraZeneca
+CYP,Pfizer/BioNTech
+CZE,Johnson&Johnson
+CZE,Moderna
+CZE,Novavax
+CZE,Oxford/AstraZeneca
+CZE,Pfizer/BioNTech
+CZE,Sinovac
+COD,Oxford/AstraZeneca
+DNK,Johnson&Johnson
+DNK,Moderna
+DNK,Oxford/AstraZeneca
+DNK,Pfizer/BioNTech
+DJI,CanSino
+DJI,Covaxin
+DJI,Johnson&Johnson
+DJI,Moderna
+DJI,Oxford/AstraZeneca
+DJI,Pfizer/BioNTech
+DJI,Sinopharm/Beijing
+DJI,Sinovac
+DJI,Sputnik Light
+DJI,Sputnik V
+DMA,Moderna
+DMA,Oxford/AstraZeneca
+DMA,Pfizer/BioNTech
+DMA,Sinopharm/Beijing
+DOM,Oxford/AstraZeneca
+DOM,Pfizer/BioNTech
+DOM,Sinopharm/Beijing
+DOM,Sinovac
+ECU,CanSino
+ECU,Oxford/AstraZeneca
+ECU,Pfizer/BioNTech
+ECU,Sinovac
+EGY,CanSino
+EGY,Covaxin
+EGY,Johnson&Johnson
+EGY,Moderna
+EGY,Oxford/AstraZeneca
+EGY,Pfizer/BioNTech
+EGY,Sinopharm/Beijing
+EGY,Sinovac
+EGY,Sputnik Light
+EGY,Sputnik V
+SLV,Oxford/AstraZeneca
+SLV,Pfizer/BioNTech
+SLV,Sinopharm/Beijing
+SLV,Sinovac
+OWID_ENG,Moderna
+OWID_ENG,Oxford/AstraZeneca
+OWID_ENG,Pfizer/BioNTech
+GNQ,Sinopharm/Beijing
+GNQ,Sinovac
+EST,Johnson&Johnson
+EST,Moderna
+EST,Novavax
+EST,Oxford/AstraZeneca
+EST,Pfizer/BioNTech
+SWZ,Johnson&Johnson
+SWZ,Oxford/AstraZeneca
+SWZ,Pfizer/BioNTech
+ETH,Covaxin
+ETH,Johnson&Johnson
+ETH,Oxford/AstraZeneca
+ETH,Sinopharm/Beijing
+ETH,Sinovac
+FRO,Moderna
+FRO,Pfizer/BioNTech
+FLK,Oxford/AstraZeneca
+FJI,Moderna
+FJI,Oxford/AstraZeneca
+FJI,Pfizer/BioNTech
+FIN,Moderna
+FIN,Oxford/AstraZeneca
+FIN,Pfizer/BioNTech
+FRA,Johnson&Johnson
+FRA,Moderna
+FRA,Novavax
+FRA,Oxford/AstraZeneca
+FRA,Pfizer/BioNTech
+FRA,Sanofi/GSK
+PYF,Johnson&Johnson
+PYF,Pfizer/BioNTech
+GAB,Pfizer/BioNTech
+GAB,Sinopharm/Beijing
+GAB,Sputnik V
+GMB,Johnson&Johnson
+GMB,Oxford/AstraZeneca
+GMB,Sinopharm/Beijing
+GEO,Oxford/AstraZeneca
+GEO,Pfizer/BioNTech
+GEO,Sinopharm/Beijing
+GEO,Sinovac
+DEU,Johnson&Johnson
+DEU,Moderna
+DEU,Novavax
+DEU,Oxford/AstraZeneca
+DEU,Pfizer/BioNTech
+DEU,Valneva
+GHA,Oxford/AstraZeneca
+GHA,Sputnik V
+GIB,Oxford/AstraZeneca
+GIB,Pfizer/BioNTech
+GRC,Johnson&Johnson
+GRC,Moderna
+GRC,Novavax
+GRC,Oxford/AstraZeneca
+GRC,Pfizer/BioNTech
+GRL,Moderna
+GRD,Johnson&Johnson
+GRD,Moderna
+GRD,Oxford/AstraZeneca
+GRD,Pfizer/BioNTech
+GTM,Moderna
+GTM,Oxford/AstraZeneca
+GTM,Pfizer/BioNTech
+GTM,Sputnik V
+GGY,Moderna
+GGY,Oxford/AstraZeneca
+GGY,Pfizer/BioNTech
+GIN,Johnson&Johnson
+GIN,Oxford/AstraZeneca
+GIN,Pfizer/BioNTech
+GIN,Sinopharm/Beijing
+GIN,Sinovac
+GIN,Sputnik V
+GNB,Oxford/AstraZeneca
+GNB,Sinopharm/Beijing
+GUY,Johnson&Johnson
+GUY,Moderna
+GUY,Oxford/AstraZeneca
+GUY,Pfizer/BioNTech
+GUY,Sinopharm/Beijing
+GUY,Sputnik V
+HTI,Johnson&Johnson
+HTI,Moderna
+HND,Johnson&Johnson
+HND,Moderna
+HND,Oxford/AstraZeneca
+HND,Pfizer/BioNTech
+HND,Sputnik V
+HKG,Pfizer/BioNTech
+HKG,Sinovac
+HUN,Johnson&Johnson
+HUN,Moderna
+HUN,Oxford/AstraZeneca
+HUN,Pfizer/BioNTech
+HUN,Sinopharm/Beijing
+HUN,Sputnik V
+ISL,Johnson&Johnson
+ISL,Moderna
+ISL,Oxford/AstraZeneca
+ISL,Pfizer/BioNTech
+IND,Corbevax
+IND,Covaxin
+IND,Novavax
+IND,Oxford/AstraZeneca
+IND,Sputnik V
+IDN,Johnson&Johnson
+IDN,Moderna
+IDN,Novavax
+IDN,Oxford/AstraZeneca
+IDN,Pfizer/BioNTech
+IDN,Sinopharm/Beijing
+IDN,Sinovac
+IRN,COVIran Barekat
+IRN,CanSino
+IRN,Covaxin
+IRN,Johnson&Johnson
+IRN,Moderna
+IRN,Oxford/AstraZeneca
+IRN,Pfizer/BioNTech
+IRN,Sinopharm/Beijing
+IRN,Sinovac
+IRN,Soberana02
+IRN,Sputnik Light
+IRN,Sputnik V
+IRQ,CanSino
+IRQ,Covaxin
+IRQ,Johnson&Johnson
+IRQ,Moderna
+IRQ,Oxford/AstraZeneca
+IRQ,Pfizer/BioNTech
+IRQ,Sinopharm/Beijing
+IRQ,Sinovac
+IRQ,Sputnik Light
+IRQ,Sputnik V
+IRL,Johnson&Johnson
+IRL,Moderna
+IRL,Novavax
+IRL,Oxford/AstraZeneca
+IRL,Pfizer/BioNTech
+IMN,Moderna
+IMN,Oxford/AstraZeneca
+IMN,Pfizer/BioNTech
+ISR,Moderna
+ISR,Pfizer/BioNTech
+ITA,Johnson&Johnson
+ITA,Moderna
+ITA,Novavax
+ITA,Oxford/AstraZeneca
+ITA,Pfizer/BioNTech
+ITA,Sanofi/GSK
+JAM,Johnson&Johnson
+JAM,Moderna
+JAM,Oxford/AstraZeneca
+JAM,Pfizer/BioNTech
+JPN,Moderna
+JPN,Novavax
+JPN,Oxford/AstraZeneca
+JPN,Pfizer/BioNTech
+JEY,Moderna
+JEY,Oxford/AstraZeneca
+JEY,Pfizer/BioNTech
+JOR,CanSino
+JOR,Covaxin
+JOR,Johnson&Johnson
+JOR,Moderna
+JOR,Oxford/AstraZeneca
+JOR,Pfizer/BioNTech
+JOR,Sinopharm/Beijing
+JOR,Sinovac
+JOR,Sputnik Light
+JOR,Sputnik V
+KAZ,Pfizer/BioNTech
+KAZ,QazVac
+KAZ,Sinopharm/Beijing
+KAZ,Sinovac
+KAZ,Sputnik V
+KEN,Johnson&Johnson
+KEN,Moderna
+KEN,Oxford/AstraZeneca
+KEN,Pfizer/BioNTech
+KEN,Sinopharm/Beijing
+KIR,Oxford/AstraZeneca
+OWID_KOS,Oxford/AstraZeneca
+OWID_KOS,Pfizer/BioNTech
+KWT,CanSino
+KWT,Covaxin
+KWT,Johnson&Johnson
+KWT,Moderna
+KWT,Oxford/AstraZeneca
+KWT,Pfizer/BioNTech
+KWT,Sinopharm/Beijing
+KWT,Sinovac
+KWT,Sputnik Light
+KWT,Sputnik V
+KGZ,Sinopharm/Beijing
+KGZ,Sputnik V
+LAO,Johnson&Johnson
+LAO,Oxford/AstraZeneca
+LAO,Pfizer/BioNTech
+LAO,Sinopharm/Beijing
+LAO,Sinovac
+LAO,Sputnik Light
+LAO,Sputnik V
+LVA,Johnson&Johnson
+LVA,Moderna
+LVA,Novavax
+LVA,Oxford/AstraZeneca
+LVA,Pfizer/BioNTech
+LBN,CanSino
+LBN,Covaxin
+LBN,Johnson&Johnson
+LBN,Moderna
+LBN,Oxford/AstraZeneca
+LBN,Pfizer/BioNTech
+LBN,Sinopharm/Beijing
+LBN,Sinovac
+LBN,Sputnik Light
+LBN,Sputnik V
+LSO,Johnson&Johnson
+LSO,Oxford/AstraZeneca
+LSO,Sinopharm/Beijing
+LBR,Oxford/AstraZeneca
+LBY,CanSino
+LBY,Covaxin
+LBY,Johnson&Johnson
+LBY,Moderna
+LBY,Oxford/AstraZeneca
+LBY,Pfizer/BioNTech
+LBY,Sinopharm/Beijing
+LBY,Sinovac
+LBY,Sputnik Light
+LBY,Sputnik V
+LIE,Johnson&Johnson
+LIE,Moderna
+LIE,Novavax
+LIE,Pfizer/BioNTech
+LTU,Johnson&Johnson
+LTU,Moderna
+LTU,Novavax
+LTU,Oxford/AstraZeneca
+LTU,Pfizer/BioNTech
+LUX,Johnson&Johnson
+LUX,Moderna
+LUX,Novavax
+LUX,Oxford/AstraZeneca
+LUX,Pfizer/BioNTech
+MAC,Pfizer/BioNTech
+MAC,Sinopharm/Beijing
+MDG,Johnson&Johnson
+MDG,Oxford/AstraZeneca
+MDG,Sinopharm/Beijing
+MWI,Johnson&Johnson
+MWI,Oxford/AstraZeneca
+MYS,CanSino
+MYS,Oxford/AstraZeneca
+MYS,Pfizer/BioNTech
+MYS,Sinopharm/Beijing
+MYS,Sinovac
+MDV,Johnson&Johnson
+MDV,Moderna
+MDV,Oxford/AstraZeneca
+MDV,Pfizer/BioNTech
+MDV,Sinopharm/Beijing
+MDV,Sinovac
+MDV,Sputnik V
+MLI,Oxford/AstraZeneca
+MLT,Johnson&Johnson
+MLT,Moderna
+MLT,Oxford/AstraZeneca
+MLT,Pfizer/BioNTech
+MRT,Oxford/AstraZeneca
+MRT,Sinopharm/Beijing
+MUS,Covaxin
+MUS,Oxford/AstraZeneca
+MUS,Sinopharm/Beijing
+MEX,CanSino
+MEX,Johnson&Johnson
+MEX,Moderna
+MEX,Oxford/AstraZeneca
+MEX,Pfizer/BioNTech
+MEX,Sinovac
+MEX,Sputnik V
+MDA,Johnson&Johnson
+MDA,Moderna
+MDA,Oxford/AstraZeneca
+MDA,Pfizer/BioNTech
+MDA,Sinopharm/Beijing
+MDA,Sinovac
+MDA,Sputnik V
+MCO,Pfizer/BioNTech
+MNG,Oxford/AstraZeneca
+MNG,Pfizer/BioNTech
+MNG,Sinopharm/Beijing
+MNG,Sputnik V
+MNE,Oxford/AstraZeneca
+MNE,Pfizer/BioNTech
+MNE,Sinopharm/Beijing
+MNE,Sputnik V
+MSR,Oxford/AstraZeneca
+MAR,CanSino
+MAR,Covaxin
+MAR,Johnson&Johnson
+MAR,Moderna
+MAR,Oxford/AstraZeneca
+MAR,Pfizer/BioNTech
+MAR,Sinopharm/Beijing
+MAR,Sinovac
+MAR,Sputnik Light
+MAR,Sputnik V
+MOZ,Johnson&Johnson
+MOZ,Oxford/AstraZeneca
+MOZ,Sinopharm/Beijing
+MMR,Oxford/AstraZeneca
+MMR,Sinopharm/Beijing
+NAM,Johnson&Johnson
+NAM,Oxford/AstraZeneca
+NAM,Pfizer/BioNTech
+NAM,Sinopharm/Beijing
+NRU,Oxford/AstraZeneca
+NPL,Covaxin
+NPL,Johnson&Johnson
+NPL,Moderna
+NPL,Oxford/AstraZeneca
+NPL,Pfizer/BioNTech
+NPL,Sinopharm/Beijing
+NPL,Sputnik V
+NLD,Johnson&Johnson
+NLD,Moderna
+NLD,Novavax
+NLD,Oxford/AstraZeneca
+NLD,Pfizer/BioNTech
+NCL,Pfizer/BioNTech
+NZL,Novavax
+NZL,Oxford/AstraZeneca
+NZL,Pfizer/BioNTech
+NIC,Abdala
+NIC,Johnson&Johnson
+NIC,Moderna
+NIC,Oxford/AstraZeneca
+NIC,Pfizer/BioNTech
+NIC,Sinopharm/Beijing
+NIC,Soberana02
+NIC,Sputnik Light
+NIC,Sputnik V
+NER,Oxford/AstraZeneca
+NER,Sinopharm/Beijing
+NGA,Oxford/AstraZeneca
+NIU,Pfizer/BioNTech
+MKD,Moderna
+MKD,Oxford/AstraZeneca
+MKD,Pfizer/BioNTech
+MKD,Sinopharm/Beijing
+MKD,Sinopharm/Wuhan
+MKD,Sinovac
+MKD,Sputnik V
+OWID_CYN,Oxford/AstraZeneca
+OWID_CYN,Pfizer/BioNTech
+OWID_CYN,Sinovac
+OWID_NIR,Moderna
+OWID_NIR,Oxford/AstraZeneca
+OWID_NIR,Pfizer/BioNTech
+NOR,Moderna
+NOR,Pfizer/BioNTech
+OMN,CanSino
+OMN,Covaxin
+OMN,Johnson&Johnson
+OMN,Moderna
+OMN,Oxford/AstraZeneca
+OMN,Pfizer/BioNTech
+OMN,Sinopharm/Beijing
+OMN,Sinovac
+OMN,Sputnik Light
+OMN,Sputnik V
+PAK,CanSino
+PAK,Covaxin
+PAK,Johnson&Johnson
+PAK,Moderna
+PAK,Oxford/AstraZeneca
+PAK,Pfizer/BioNTech
+PAK,Sinopharm/Beijing
+PAK,Sinovac
+PAK,Sputnik Light
+PAK,Sputnik V
+PSE,CanSino
+PSE,Covaxin
+PSE,Johnson&Johnson
+PSE,Moderna
+PSE,Oxford/AstraZeneca
+PSE,Pfizer/BioNTech
+PSE,Sinopharm/Beijing
+PSE,Sinovac
+PSE,Sputnik Light
+PSE,Sputnik V
+PAN,Oxford/AstraZeneca
+PAN,Pfizer/BioNTech
+PNG,Oxford/AstraZeneca
+PRY,Covaxin
+PRY,Moderna
+PRY,Oxford/AstraZeneca
+PRY,Pfizer/BioNTech
+PRY,Sinopharm/Beijing
+PRY,Sinovac
+PRY,Sputnik V
+PER,Moderna
+PER,Oxford/AstraZeneca
+PER,Pfizer/BioNTech
+PER,Sinopharm/Beijing
+PHL,Covaxin
+PHL,Johnson&Johnson
+PHL,Moderna
+PHL,Novavax
+PHL,Oxford/AstraZeneca
+PHL,Pfizer/BioNTech
+PHL,Sinopharm/Beijing
+PHL,Sinovac
+PHL,Sputnik Light
+PHL,Sputnik V
+PCN,Oxford/AstraZeneca
+POL,Johnson&Johnson
+POL,Moderna
+POL,Novavax
+POL,Oxford/AstraZeneca
+POL,Pfizer/BioNTech
+PRT,Covaxin
+PRT,Johnson&Johnson
+PRT,Moderna
+PRT,Novavax
+PRT,Oxford/AstraZeneca
+PRT,Pfizer/BioNTech
+PRT,Sanofi/GSK
+PRT,Sinopharm/Beijing
+PRT,Sinovac
+QAT,CanSino
+QAT,Covaxin
+QAT,Johnson&Johnson
+QAT,Moderna
+QAT,Oxford/AstraZeneca
+QAT,Pfizer/BioNTech
+QAT,Sinopharm/Beijing
+QAT,Sinovac
+QAT,Sputnik Light
+QAT,Sputnik V
+ROU,Johnson&Johnson
+ROU,Moderna
+ROU,Oxford/AstraZeneca
+ROU,Pfizer/BioNTech
+RUS,EpiVacCorona
+RUS,Sputnik V
+RWA,Johnson&Johnson
+RWA,Moderna
+RWA,Oxford/AstraZeneca
+RWA,Pfizer/BioNTech
+RWA,Sinopharm/Beijing
+RWA,Sinovac
+RWA,Sputnik V
+SHN,Oxford/AstraZeneca
+KNA,Oxford/AstraZeneca
+KNA,Pfizer/BioNTech
+LCA,Johnson&Johnson
+LCA,Moderna
+LCA,Oxford/AstraZeneca
+LCA,Pfizer/BioNTech
+VCT,Oxford/AstraZeneca
+VCT,Pfizer/BioNTech
+VCT,Sputnik Light
+VCT,Sputnik V
+WSM,Oxford/AstraZeneca
+SMR,Pfizer/BioNTech
+SMR,Sputnik V
+STP,Oxford/AstraZeneca
+SAU,Oxford/AstraZeneca
+SAU,Pfizer/BioNTech
+OWID_SCT,Moderna
+OWID_SCT,Oxford/AstraZeneca
+OWID_SCT,Pfizer/BioNTech
+SEN,Johnson&Johnson
+SEN,Oxford/AstraZeneca
+SEN,Sinopharm/Beijing
+SRB,Oxford/AstraZeneca
+SRB,Pfizer/BioNTech
+SRB,Sinopharm/Beijing
+SRB,Sputnik V
+SYC,Oxford/AstraZeneca
+SYC,Sinopharm/Beijing
+SYC,Sputnik V
+SLE,Oxford/AstraZeneca
+SLE,Sinopharm/Beijing
+SGP,Moderna
+SGP,Novavax
+SGP,Pfizer/BioNTech
+SGP,Sinopharm/Beijing
+SGP,Sinovac
+SXM,Moderna
+SXM,Oxford/AstraZeneca
+SXM,Pfizer/BioNTech
+SVK,Johnson&Johnson
+SVK,Moderna
+SVK,Novavax
+SVK,Oxford/AstraZeneca
+SVK,Pfizer/BioNTech
+SVK,Sputnik V
+SVN,Johnson&Johnson
+SVN,Moderna
+SVN,Novavax
+SVN,Oxford/AstraZeneca
+SVN,Pfizer/BioNTech
+SLB,Oxford/AstraZeneca
+SOM,CanSino
+SOM,Covaxin
+SOM,Johnson&Johnson
+SOM,Moderna
+SOM,Oxford/AstraZeneca
+SOM,Pfizer/BioNTech
+SOM,Sinopharm/Beijing
+SOM,Sinovac
+SOM,Sputnik Light
+SOM,Sputnik V
+ZAF,Johnson&Johnson
+ZAF,Pfizer/BioNTech
+KOR,Johnson&Johnson
+KOR,Moderna
+KOR,Novavax
+KOR,Oxford/AstraZeneca
+KOR,Pfizer/BioNTech
+SSD,Johnson&Johnson
+SSD,Oxford/AstraZeneca
+ESP,Johnson&Johnson
+ESP,Moderna
+ESP,Oxford/AstraZeneca
+ESP,Pfizer/BioNTech
+LKA,Moderna
+LKA,Oxford/AstraZeneca
+LKA,Pfizer/BioNTech
+LKA,Sinopharm/Beijing
+LKA,Sputnik V
+SDN,CanSino
+SDN,Covaxin
+SDN,Johnson&Johnson
+SDN,Moderna
+SDN,Oxford/AstraZeneca
+SDN,Pfizer/BioNTech
+SDN,Sinopharm/Beijing
+SDN,Sinovac
+SDN,Sputnik Light
+SDN,Sputnik V
+SUR,Oxford/AstraZeneca
+SUR,Pfizer/BioNTech
+SUR,Sinopharm/Beijing
+SWE,Moderna
+SWE,Novavax
+SWE,Oxford/AstraZeneca
+SWE,Pfizer/BioNTech
+CHE,Johnson&Johnson
+CHE,Moderna
+CHE,Novavax
+CHE,Pfizer/BioNTech
+SYR,CanSino
+SYR,Covaxin
+SYR,Johnson&Johnson
+SYR,Moderna
+SYR,Oxford/AstraZeneca
+SYR,Pfizer/BioNTech
+SYR,Sinopharm/Beijing
+SYR,Sinovac
+SYR,Sputnik Light
+SYR,Sputnik V
+TWN,Medigen
+TWN,Moderna
+TWN,Novavax
+TWN,Oxford/AstraZeneca
+TWN,Pfizer/BioNTech
+TJK,Moderna
+TJK,Oxford/AstraZeneca
+TJK,Pfizer/BioNTech
+TJK,Sinovac
+TJK,Sputnik V
+TZA,Johnson&Johnson
+TZA,Pfizer/BioNTech
+TZA,Sinopharm/Beijing
+THA,Moderna
+THA,Oxford/AstraZeneca
+THA,Pfizer/BioNTech
+THA,Sinopharm/Beijing
+THA,Sinovac
+TLS,Oxford/AstraZeneca
+TLS,Pfizer/BioNTech
+TLS,Sinovac
+TGO,Oxford/AstraZeneca
+TKL,Pfizer/BioNTech
+TON,Oxford/AstraZeneca
+TTO,Johnson&Johnson
+TTO,Oxford/AstraZeneca
+TTO,Pfizer/BioNTech
+TTO,Sinopharm/Beijing
+TUN,CanSino
+TUN,Covaxin
+TUN,Johnson&Johnson
+TUN,Moderna
+TUN,Oxford/AstraZeneca
+TUN,Pfizer/BioNTech
+TUN,Sinopharm/Beijing
+TUN,Sinovac
+TUN,Sputnik Light
+TUN,Sputnik V
+TUR,Pfizer/BioNTech
+TUR,Sinovac
+TUR,Turkovac
+TKM,EpiVacCorona
+TKM,Oxford/AstraZeneca
+TKM,QazVac
+TKM,Sinopharm/Beijing
+TKM,Sputnik V
+TKM,ZF2001
+TCA,Pfizer/BioNTech
+TUV,Oxford/AstraZeneca
+UGA,Johnson&Johnson
+UGA,Moderna
+UGA,Oxford/AstraZeneca
+UGA,Pfizer/BioNTech
+UGA,Sinovac
+UKR,Johnson&Johnson
+UKR,Moderna
+UKR,Oxford/AstraZeneca
+UKR,Pfizer/BioNTech
+UKR,Sinovac
+ARE,CanSino
+ARE,Covaxin
+ARE,Johnson&Johnson
+ARE,Moderna
+ARE,Oxford/AstraZeneca
+ARE,Pfizer/BioNTech
+ARE,Sinopharm/Beijing
+ARE,Sinovac
+ARE,Sputnik Light
+ARE,Sputnik V
+GBR,Moderna
+GBR,Oxford/AstraZeneca
+GBR,Pfizer/BioNTech
+USA,Johnson&Johnson
+USA,Moderna
+USA,Novavax
+USA,Pfizer/BioNTech
+URY,Oxford/AstraZeneca
+URY,Pfizer/BioNTech
+URY,Sinovac
+UZB,Johnson&Johnson
+UZB,Moderna
+UZB,Oxford/AstraZeneca
+UZB,Pfizer/BioNTech
+UZB,Sinovac
+UZB,Sputnik Light
+UZB,Sputnik V
+UZB,ZF2001
+VUT,Oxford/AstraZeneca
+VEN,Abdala
+VEN,Sinopharm/Beijing
+VEN,Sinovac
+VEN,Soberana02
+VEN,Sputnik Light
+VEN,Sputnik V
+VNM,Abdala
+VNM,Moderna
+VNM,Oxford/AstraZeneca
+VNM,Pfizer/BioNTech
+VNM,Sinopharm/Beijing
+VNM,Sputnik V
+OWID_WLS,Moderna
+OWID_WLS,Oxford/AstraZeneca
+OWID_WLS,Pfizer/BioNTech
+WLF,Moderna
+YEM,CanSino
+YEM,Covaxin
+YEM,Johnson&Johnson
+YEM,Moderna
+YEM,Oxford/AstraZeneca
+YEM,Pfizer/BioNTech
+YEM,Sinopharm/Beijing
+YEM,Sinovac
+YEM,Sputnik Light
+YEM,Sputnik V
+ZMB,Johnson&Johnson
+ZMB,Oxford/AstraZeneca
+ZMB,Sinopharm/Beijing
+ZWE,Oxford/AstraZeneca
+ZWE,Sinopharm/Beijing
+ZWE,Sinovac
+ZWE,Sputnik V
